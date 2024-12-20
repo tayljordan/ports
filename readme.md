@@ -30,9 +30,8 @@ This dataset can be utilized in various domains, for example:
 
 - **Grounded Truth**: For model creation.
 - **Prompt fine-tuning**: For fine tuning models.
-- **Marketing**: Geotargeting and advertising based on port locations.
-- **Routing**: Developing efficient maritime and logistic routes.
-- **ETA Predictions**: Enhancing estimated time of arrival calculations using geospatial data.
+- **Routing**: Developing maritime and logistic routes.
+- **ETA Predictions**: For use with time of arrival calculations.
 
 ## Contribution
 
