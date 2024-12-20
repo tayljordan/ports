@@ -1,7 +1,7 @@
 
 # Worldwide Ports Dataset
 
-This repository contains a JSON dataset of 3,899 worldwide ports, including their geographic coordinates (latitude and longitude). The list was meticulously using **Pub 150**, various networking tools, and OpenAI's API. 
+This repository contains a JSON dataset of 3,899 worldwide ports, including their geographic coordinates (latitude and longitude). The list was generated using **Pub 150**, various networking tools, and OpenAI's API. 
 
 ![World Map of Ports](static/map.png)
 
