@@ -68,7 +68,6 @@ Port found: {'CITY': 'Aalborg', 'STATE': 'North Jutland', 'COUNTRY': 'Denmark', 
 This dataset can be utilized in various domains, for example:
 
 - **Grounded Truth**: For model creation.
-- **Prompt fine-tuning**: For fine-tuning models.
 - **Routing**: Developing maritime and logistic routes.
 - **ETA Predictions**: For use with time of arrival calculations.
 
