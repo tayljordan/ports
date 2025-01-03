@@ -7,7 +7,7 @@
         "LONGITUDE": 9.42
     },
     {
-        "CITY": "La\u00e2youne",
+        "CITY": "Laâyoune",
         "STATE": "Western Sahara",
         "COUNTRY": "Morocco",
         "LATITUDE": 27.07,
@@ -161,7 +161,7 @@
         "LONGITUDE": 28.23
     },
     {
-        "CITY": "S\u00e3o Jo\u00e3o da Barra",
+        "CITY": "São João da Barra",
         "STATE": "Rio de Janeiro",
         "COUNTRY": "Brazil",
         "LATITUDE": -21.84,
@@ -308,8 +308,8 @@
         "LONGITUDE": -67.16
     },
     {
-        "CITY": "\u00c5hus",
-        "STATE": "Sk\u00e5ne County",
+        "CITY": "Åhus",
+        "STATE": "Skåne County",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.93,
         "LONGITUDE": 14.33
@@ -386,7 +386,7 @@
     },
     {
         "CITY": "Molde",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 58.93,
         "LONGITUDE": 5.6
@@ -519,13 +519,13 @@
     },
     {
         "CITY": "Alcasa",
-        "STATE": "Bol\u00edvar",
+        "STATE": "Bolívar",
         "COUNTRY": "Venezuela",
         "LATITUDE": 8.33,
         "LONGITUDE": -62.71
     },
     {
-        "CITY": "Alc\u00fadia",
+        "CITY": "Alcúdia",
         "STATE": "Balearic Islands",
         "COUNTRY": "Spain",
         "LATITUDE": 39.83,
@@ -533,14 +533,14 @@
     },
     {
         "CITY": "Santos",
-        "STATE": "S\u00e3o Paulo",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.97,
         "LONGITUDE": -46.3
     },
     {
         "CITY": "Alesund",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 62.47,
         "LONGITUDE": 6.15
@@ -568,7 +568,7 @@
     },
     {
         "CITY": "Algeciras",
-        "STATE": "C\u00e1diz",
+        "STATE": "Cádiz",
         "COUNTRY": "Spain",
         "LATITUDE": 36.13,
         "LONGITUDE": -5.43
@@ -588,15 +588,15 @@
         "LONGITUDE": -89.96
     },
     {
-        "CITY": "Alia\u011fa",
-        "STATE": "\u0130zmir",
+        "CITY": "Aliağa",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.83,
         "LONGITUDE": 26.95
     },
     {
-        "CITY": "Alia\u011fa",
-        "STATE": "\u0130zmir",
+        "CITY": "Aliağa",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.83,
         "LONGITUDE": 26.91
@@ -679,7 +679,7 @@
         "LONGITUDE": -43.15
     },
     {
-        "CITY": "Alt\u0131nda\u011f",
+        "CITY": "Altındağ",
         "STATE": "Ankara",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.76,
@@ -721,14 +721,14 @@
         "LONGITUDE": 136.85
     },
     {
-        "CITY": "Ambarl\u0131",
+        "CITY": "Ambarlı",
         "STATE": "Istanbul",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.97,
         "LONGITUDE": 28.7
     },
     {
-        "CITY": "Amb\u00e8s",
+        "CITY": "Ambès",
         "STATE": "Nouvelle-Aquitaine",
         "COUNTRY": "France",
         "LATITUDE": 45.04,
@@ -792,7 +792,7 @@
     },
     {
         "CITY": "Punto Fijo",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 11.74,
         "LONGITUDE": -70.23
@@ -819,7 +819,7 @@
         "LONGITUDE": -149.95
     },
     {
-        "CITY": "Anc\u00f3n",
+        "CITY": "Ancón",
         "STATE": "Lima",
         "COUNTRY": "Peru",
         "LATITUDE": -11.77,
@@ -875,7 +875,7 @@
         "LONGITUDE": 13.43
     },
     {
-        "CITY": "Angra do Hero\u00edsmo",
+        "CITY": "Angra do Heroísmo",
         "STATE": "Azores",
         "COUNTRY": "Azores",
         "LATITUDE": 38.65,
@@ -953,7 +953,7 @@
     },
     {
         "CITY": "Antilla",
-        "STATE": "Holgu\u00edn",
+        "STATE": "Holguín",
         "COUNTRY": "Cuba",
         "LATITUDE": 20.83,
         "LONGITUDE": -75.74
@@ -1337,7 +1337,7 @@
         "LONGITUDE": 125.32
     },
     {
-        "CITY": "Asn\u00e6s",
+        "CITY": "Asnæs",
         "STATE": "Region Zealand",
         "COUNTRY": "Denmark",
         "LATITUDE": 55.67,
@@ -1610,15 +1610,15 @@
         "LONGITUDE": 117.48
     },
     {
-        "CITY": "B\u00e5do",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "CITY": "Bådo",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.34,
         "LONGITUDE": 11.9
     },
     {
-        "CITY": "Band\u0131rma",
-        "STATE": "Bal\u0131kesir",
+        "CITY": "Bandırma",
+        "STATE": "Balıkesir",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.38,
         "LONGITUDE": 27.91
@@ -1631,14 +1631,14 @@
         "LONGITUDE": -3.84
     },
     {
-        "CITY": "Bah\u00eda Blanca",
+        "CITY": "Bahía Blanca",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -38.79,
         "LONGITUDE": -62.27
     },
     {
-        "CITY": "Bah\u00eda Blanca",
+        "CITY": "Bahía Blanca",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -38.79,
@@ -1652,15 +1652,15 @@
         "LONGITUDE": -74.05
     },
     {
-        "CITY": "Bah\u00eda Las Minas",
-        "STATE": "Col\u00f3n",
+        "CITY": "Bahía Las Minas",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.4,
         "LONGITUDE": -79.82
     },
     {
-        "CITY": "Bah\u00eda Posesi\u00f3n",
-        "STATE": "Magallanes y de la Ant\u00e1rtica Chilena",
+        "CITY": "Bahía Posesión",
+        "STATE": "Magallanes y de la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -52.37,
         "LONGITUDE": -69.03
@@ -1687,7 +1687,7 @@
         "LONGITUDE": -68.13
     },
     {
-        "CITY": "Dumb\u00e9a",
+        "CITY": "Dumbéa",
         "STATE": "South Province",
         "COUNTRY": "New Caledonia",
         "LATITUDE": -22.26,
@@ -1751,7 +1751,7 @@
     },
     {
         "CITY": "Balboa",
-        "STATE": "Panam\u00e1",
+        "STATE": "Panamá",
         "COUNTRY": "Panama",
         "LATITUDE": 8.95,
         "LONGITUDE": -79.57
@@ -2052,7 +2052,7 @@
     },
     {
         "CITY": "San Pedro",
-        "STATE": "C\u00f4te d'Ivoire",
+        "STATE": "Côte d'Ivoire",
         "COUNTRY": "Ivory Coast",
         "LATITUDE": 4.94,
         "LONGITUDE": -4.53
@@ -2122,7 +2122,7 @@
     },
     {
         "CITY": "Barcarena",
-        "STATE": "Par\u00e1",
+        "STATE": "Pará",
         "COUNTRY": "Brazil",
         "LATITUDE": -1.54,
         "LONGITUDE": -48.77
@@ -2206,7 +2206,7 @@
     },
     {
         "CITY": "Barranquilla",
-        "STATE": "Atl\u00e1ntico",
+        "STATE": "Atlántico",
         "COUNTRY": "Colombia",
         "LATITUDE": 10.97,
         "LONGITUDE": -74.76
@@ -2478,7 +2478,7 @@
         "LONGITUDE": -94.08
     },
     {
-        "CITY": "Bec d'Amb\u00e8s",
+        "CITY": "Bec d'Ambès",
         "STATE": "Nouvelle-Aquitaine",
         "COUNTRY": "France",
         "LATITUDE": 45.04,
@@ -2569,8 +2569,8 @@
         "LONGITUDE": 98.7
     },
     {
-        "CITY": "Bel\u00e9m",
-        "STATE": "Par\u00e1",
+        "CITY": "Belém",
+        "STATE": "Pará",
         "COUNTRY": "Brazil",
         "LATITUDE": -1.44,
         "LONGITUDE": -48.53
@@ -2955,7 +2955,7 @@
     },
     {
         "CITY": "Boca Grande",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 9.96,
         "LONGITUDE": -61.58
@@ -2975,7 +2975,7 @@
         "LONGITUDE": -61.58
     },
     {
-        "CITY": "Bod\u00f8",
+        "CITY": "Bodø",
         "STATE": "Nordland",
         "COUNTRY": "Norway",
         "LATITUDE": 67.29,
@@ -3039,7 +3039,7 @@
     },
     {
         "CITY": "Bollsta",
-        "STATE": "V\u00e4sternorrland",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.64,
         "LONGITUDE": 17.94
@@ -3059,7 +3059,7 @@
         "LONGITUDE": 72.87
     },
     {
-        "CITY": "Bonab\u00e9ri",
+        "CITY": "Bonabéri",
         "STATE": "Littoral",
         "COUNTRY": "Cameroon",
         "LATITUDE": 4.04,
@@ -3158,7 +3158,7 @@
     },
     {
         "CITY": "Fredrikstad",
-        "STATE": "\u00d8stfold",
+        "STATE": "Østfold",
         "COUNTRY": "Norway",
         "LATITUDE": 59.21,
         "LONGITUDE": 10.96
@@ -3305,7 +3305,7 @@
     },
     {
         "CITY": "Bozcaada",
-        "STATE": "\u00c7anakkale",
+        "STATE": "Çanakkale",
         "COUNTRY": "Turkey",
         "LATITUDE": 39.81,
         "LONGITUDE": 26.04
@@ -3361,7 +3361,7 @@
     },
     {
         "CITY": "Braviken",
-        "STATE": "\u00d6sterg\u00f6tland",
+        "STATE": "Östergötland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.6,
         "LONGITUDE": 16.22
@@ -3381,7 +3381,7 @@
         "LONGITUDE": -71.19
     },
     {
-        "CITY": "Troms\u00f8",
+        "CITY": "Tromsø",
         "STATE": "Troms og Finnmark",
         "COUNTRY": "Norway",
         "LATITUDE": 69.65,
@@ -3417,7 +3417,7 @@
     },
     {
         "CITY": "Breves",
-        "STATE": "Par\u00e1",
+        "STATE": "Pará",
         "COUNTRY": "Brazil",
         "LATITUDE": -1.69,
         "LONGITUDE": -50.49
@@ -3473,7 +3473,7 @@
     },
     {
         "CITY": "Brofjorden",
-        "STATE": "V\u00e4stra G\u00f6taland.",
+        "STATE": "Västra Götaland.",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.36,
         "LONGITUDE": 11.44
@@ -3521,7 +3521,7 @@
         "LONGITUDE": 3.22
     },
     {
-        "CITY": "Brunsb\u00fcttel",
+        "CITY": "Brunsbüttel",
         "STATE": "Schleswig-Holstein",
         "COUNTRY": "Germany",
         "LATITUDE": 53.88,
@@ -3620,21 +3620,21 @@
     },
     {
         "CITY": "Gothenburg",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 56.03,
         "LONGITUDE": 12.69
     },
     {
         "CITY": "Bullen Bay",
-        "STATE": "Cura\u00e7ao",
+        "STATE": "Curaçao",
         "COUNTRY": "Netherlands Antilles",
         "LATITUDE": 12.19,
         "LONGITUDE": -69.02
     },
     {
         "CITY": "Willemstad",
-        "STATE": "Cura\u00e7ao",
+        "STATE": "Curaçao",
         "COUNTRY": "Netherlands Antilles",
         "LATITUDE": 12.19,
         "LONGITUDE": -69.02
@@ -3690,7 +3690,7 @@
     },
     {
         "CITY": "Bungo",
-        "STATE": "\u014cita",
+        "STATE": "Ōita",
         "COUNTRY": "Japan",
         "LATITUDE": 33.3,
         "LONGITUDE": 132.0
@@ -3787,8 +3787,8 @@
         "LONGITUDE": 72.91
     },
     {
-        "CITY": "B\u016bting\u0117",
-        "STATE": "Klaip\u0117da County",
+        "CITY": "Būtingė",
+        "STATE": "Klaipėda County",
         "COUNTRY": "Lithuania",
         "LATITUDE": 56.04,
         "LONGITUDE": 20.96
@@ -3816,7 +3816,7 @@
     },
     {
         "CITY": "Cabedelo",
-        "STATE": "Para\u00edba",
+        "STATE": "Paraíba",
         "COUNTRY": "Brazil",
         "LATITUDE": -6.97,
         "LONGITUDE": -34.84
@@ -3830,7 +3830,7 @@
     },
     {
         "CITY": "Cabo Negro",
-        "STATE": "Magallanes y de la Ant\u00e1rtica Chilena",
+        "STATE": "Magallanes y de la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -52.93,
         "LONGITUDE": -70.8
@@ -3843,7 +3843,7 @@
         "LONGITUDE": -56.57
     },
     {
-        "CITY": "C\u00e1diz",
+        "CITY": "Cádiz",
         "STATE": "Andalusia",
         "COUNTRY": "Spain",
         "LATITUDE": 36.54,
@@ -3879,7 +3879,7 @@
     },
     {
         "CITY": "Cai Mep",
-        "STATE": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+        "STATE": "Bà Rịa-Vũng Tàu",
         "COUNTRY": "Vietnam",
         "LATITUDE": 10.53,
         "LONGITUDE": 107.02
@@ -3956,7 +3956,7 @@
     },
     {
         "CITY": "Caleta Clarencia",
-        "STATE": "Magallanes y la Ant\u00e1rtica Chilena",
+        "STATE": "Magallanes y la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -52.93,
         "LONGITUDE": -70.16
@@ -4053,8 +4053,8 @@
         "LONGITUDE": -61.23
     },
     {
-        "CITY": "C\u1ea9m Ph\u1ea3",
-        "STATE": "Qu\u1ea3ng Ninh",
+        "CITY": "Cẩm Phả",
+        "STATE": "Quảng Ninh",
         "COUNTRY": "Vietnam",
         "LATITUDE": 21.02,
         "LONGITUDE": 107.38
@@ -4067,8 +4067,8 @@
         "LONGITUDE": 8.46
     },
     {
-        "CITY": "\u00c7anakkale",
-        "STATE": "\u00c7anakkale",
+        "CITY": "Çanakkale",
+        "STATE": "Çanakkale",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.15,
         "LONGITUDE": 26.4
@@ -4299,7 +4299,7 @@
     },
     {
         "CITY": "Carboneras",
-        "STATE": "Almer\u00eda",
+        "STATE": "Almería",
         "COUNTRY": "Spain",
         "LATITUDE": 36.97,
         "LONGITUDE": -1.9
@@ -4334,7 +4334,7 @@
     },
     {
         "CITY": "Martigues",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.34,
         "LONGITUDE": 5.34
@@ -4355,7 +4355,7 @@
     },
     {
         "CITY": "Cartagena",
-        "STATE": "Bol\u00edvar",
+        "STATE": "Bolívar",
         "COUNTRY": "Colombia",
         "LATITUDE": 10.4,
         "LONGITUDE": -75.54
@@ -4382,29 +4382,29 @@
         "LONGITUDE": -7.6
     },
     {
-        "CITY": "Castell\u00f3n de la Plana",
-        "STATE": "Castell\u00f3n",
+        "CITY": "Castellón de la Plana",
+        "STATE": "Castellón",
         "COUNTRY": "Spain",
         "LATITUDE": 39.94,
         "LONGITUDE": 0.05
     },
     {
-        "CITY": "Castell\u00f3n de la Plana",
-        "STATE": "Castell\u00f3n",
+        "CITY": "Castellón de la Plana",
+        "STATE": "Castellón",
         "COUNTRY": "Spain",
         "LATITUDE": 39.97,
         "LONGITUDE": 0.03
     },
     {
-        "CITY": "Castell\u00f3n de la Plana",
-        "STATE": "Castell\u00f3n",
+        "CITY": "Castellón de la Plana",
+        "STATE": "Castellón",
         "COUNTRY": "Spain",
         "LATITUDE": 39.94,
         "LONGITUDE": 0.03
     },
     {
         "CITY": "Castellon de la Plana",
-        "STATE": "Castell\u00f3n",
+        "STATE": "Castellón",
         "COUNTRY": "Spain",
         "LATITUDE": 39.95,
         "LONGITUDE": 0.02
@@ -4781,8 +4781,8 @@
         "LONGITUDE": -90.75
     },
     {
-        "CITY": "Ch\u00ed Linh",
-        "STATE": "H\u1ea3i D\u01b0\u01a1ng",
+        "CITY": "Chí Linh",
+        "STATE": "Hải Dương",
         "COUNTRY": "Vietnam",
         "LATITUDE": 9.8,
         "LONGITUDE": 107.99
@@ -4956,7 +4956,7 @@
         "LONGITUDE": 99.26
     },
     {
-        "CITY": "Ci\u00e9naga",
+        "CITY": "Ciénaga",
         "STATE": "Magdalena",
         "COUNTRY": "Colombia",
         "LATITUDE": 11.08,
@@ -5055,7 +5055,7 @@
     },
     {
         "CITY": "Clarence Island",
-        "STATE": "Magallanes y la Ant\u00e1rtica Chilena",
+        "STATE": "Magallanes y la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -52.93,
         "LONGITUDE": -70.16
@@ -5153,7 +5153,7 @@
     },
     {
         "CITY": "Coco Solo",
-        "STATE": "Col\u00f3n",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.37,
         "LONGITUDE": -79.89
@@ -5201,22 +5201,22 @@
         "LONGITUDE": 79.85
     },
     {
-        "CITY": "Col\u00f3n",
-        "STATE": "Col\u00f3n",
+        "CITY": "Colón",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.39,
         "LONGITUDE": -79.92
     },
     {
-        "CITY": "Col\u00f3n",
-        "STATE": "Col\u00f3n",
+        "CITY": "Colón",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.36,
         "LONGITUDE": -79.89
     },
     {
-        "CITY": "Col\u00f3n",
-        "STATE": "Entre R\u00edos",
+        "CITY": "Colón",
+        "STATE": "Entre Ríos",
         "COUNTRY": "Argentina",
         "LATITUDE": -32.22,
         "LONGITUDE": -58.13
@@ -5258,7 +5258,7 @@
     },
     {
         "CITY": "Santa Rita",
-        "STATE": "Para\u00edba",
+        "STATE": "Paraíba",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.97,
         "LONGITUDE": -46.3
@@ -5285,8 +5285,8 @@
         "LONGITUDE": -76.94
     },
     {
-        "CITY": "Constan\u021ba",
-        "STATE": "Constan\u021ba",
+        "CITY": "Constanța",
+        "STATE": "Constanța",
         "COUNTRY": "Romania",
         "LATITUDE": 44.12,
         "LONGITUDE": 28.69
@@ -5461,7 +5461,7 @@
     },
     {
         "CITY": "Coronel",
-        "STATE": "Biob\u00edo",
+        "STATE": "Biobío",
         "COUNTRY": "Chile",
         "LATITUDE": -37.03,
         "LONGITUDE": -73.15
@@ -5481,7 +5481,7 @@
         "LONGITUDE": -97.4
     },
     {
-        "CITY": "A Coru\u00f1a",
+        "CITY": "A Coruña",
         "STATE": "Galicia",
         "COUNTRY": "Spain",
         "LATITUDE": 43.36,
@@ -5537,7 +5537,7 @@
         "LONGITUDE": 2.43
     },
     {
-        "CITY": "Cou\u00ebron",
+        "CITY": "Couëron",
         "STATE": "Pays de la Loire",
         "COUNTRY": "France",
         "LATITUDE": 47.19,
@@ -5551,7 +5551,7 @@
         "LONGITUDE": -76.38
     },
     {
-        "CITY": "Cove\u00f1as",
+        "CITY": "Coveñas",
         "STATE": "Sucre",
         "COUNTRY": "Colombia",
         "LATITUDE": 9.53,
@@ -5580,7 +5580,7 @@
     },
     {
         "CITY": "Cristobal",
-        "STATE": "Col\u00f3n",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.35,
         "LONGITUDE": -79.92
@@ -5621,7 +5621,7 @@
         "LONGITUDE": 79.78
     },
     {
-        "CITY": "\u00c7ukurova",
+        "CITY": "Çukurova",
         "STATE": "Adana",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
@@ -5650,14 +5650,14 @@
     },
     {
         "CITY": "Cumarebo",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 11.49,
         "LONGITUDE": -69.36
     },
     {
         "CITY": "Araraquara",
-        "STATE": "S\u00e3o Paulo",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.97,
         "LONGITUDE": -46.3
@@ -5873,15 +5873,15 @@
         "LONGITUDE": 126.24
     },
     {
-        "CITY": "\u00c7anakkale",
-        "STATE": "\u00c7anakkale Province",
+        "CITY": "Çanakkale",
+        "STATE": "Çanakkale Province",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.01,
         "LONGITUDE": 26.13
     },
     {
-        "CITY": "\u00c7anakkale",
-        "STATE": "\u00c7anakkale Province",
+        "CITY": "Çanakkale",
+        "STATE": "Çanakkale Province",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.03,
         "LONGITUDE": 26.12
@@ -6042,7 +6042,7 @@
     },
     {
         "CITY": "Delta Zone",
-        "STATE": "Tacuaremb\u00f3",
+        "STATE": "Tacuarembó",
         "COUNTRY": "Uruguay",
         "LATITUDE": -35.07,
         "LONGITUDE": -55.18
@@ -6133,7 +6133,7 @@
     },
     {
         "CITY": "Diamante",
-        "STATE": "Entre R\u00edos",
+        "STATE": "Entre Ríos",
         "COUNTRY": "Argentina",
         "LATITUDE": -32.07,
         "LONGITUDE": -60.66
@@ -6174,7 +6174,7 @@
         "LONGITUDE": 125.58
     },
     {
-        "CITY": "Dilovas\u0131",
+        "CITY": "Dilovası",
         "STATE": "Kocaeli",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.76,
@@ -6230,7 +6230,7 @@
         "LONGITUDE": 43.13
     },
     {
-        "CITY": "Djur\u00f6",
+        "CITY": "Djurö",
         "STATE": "Stockholm",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.6,
@@ -6272,8 +6272,8 @@
         "LONGITUDE": 51.56
     },
     {
-        "CITY": "Domsj\u00f6",
-        "STATE": "V\u00e4sternorrland",
+        "CITY": "Domsjö",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 63.26,
         "LONGITUDE": 18.71
@@ -6391,7 +6391,7 @@
         "LONGITUDE": 4.64
     },
     {
-        "CITY": "D\u00f6rtyol",
+        "CITY": "Dörtyol",
         "STATE": "Hatay",
         "COUNTRY": "Turkey",
         "LATITUDE": 36.85,
@@ -6538,8 +6538,8 @@
         "LONGITUDE": -44.23
     },
     {
-        "CITY": "Guaruj\u00e1",
-        "STATE": "S\u00e3o Paulo",
+        "CITY": "Guarujá",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -22.82,
         "LONGITUDE": -43.15
@@ -6706,8 +6706,8 @@
         "LONGITUDE": 31.04
     },
     {
-        "CITY": "Durr\u00ebs",
-        "STATE": "Durr\u00ebs County",
+        "CITY": "Durrës",
+        "STATE": "Durrës County",
         "COUNTRY": "Albania",
         "LATITUDE": 41.31,
         "LONGITUDE": 19.45
@@ -6846,14 +6846,14 @@
         "LONGITUDE": -2.91
     },
     {
-        "CITY": "Eckernf\u00f6rde",
+        "CITY": "Eckernförde",
         "STATE": "Schleswig-Holstein",
         "COUNTRY": "Germany",
         "LATITUDE": 54.47,
         "LONGITUDE": 9.86
     },
     {
-        "CITY": "Bogot\u00e1",
+        "CITY": "Bogotá",
         "STATE": "Cundinamarca",
         "COUNTRY": "Colombia",
         "LATITUDE": 10.32,
@@ -6889,7 +6889,7 @@
     },
     {
         "CITY": "Edstrandsbassangen",
-        "STATE": "V\u00e4stmanland",
+        "STATE": "Västmanland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.6,
         "LONGITUDE": 16.22
@@ -6903,7 +6903,7 @@
     },
     {
         "CITY": "Bergama",
-        "STATE": "\u0130zmir",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
         "LONGITUDE": 26.92
@@ -6938,7 +6938,7 @@
     },
     {
         "CITY": "El Chaure",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.24,
         "LONGITUDE": -64.63
@@ -7007,7 +7007,7 @@
         "LONGITUDE": -80.99
     },
     {
-        "CITY": "Brunsb\u00fcttel",
+        "CITY": "Brunsbüttel",
         "STATE": "Schleswig-Holstein",
         "COUNTRY": "Germany",
         "LATITUDE": 53.65,
@@ -7056,14 +7056,14 @@
         "LONGITUDE": -2.89
     },
     {
-        "CITY": "Elnesv\u00e5gen",
-        "STATE": "M\u00f8re og Romsdal",
+        "CITY": "Elnesvågen",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 62.85,
         "LONGITUDE": 7.15
     },
     {
-        "CITY": "Helsing\u00f8r",
+        "CITY": "Helsingør",
         "STATE": "Zealand",
         "COUNTRY": "Denmark",
         "LATITUDE": 56.03,
@@ -7078,7 +7078,7 @@
     },
     {
         "CITY": "Emmastad",
-        "STATE": "Cura\u00e7ao",
+        "STATE": "Curaçao",
         "COUNTRY": "Netherlands Antilles",
         "LATITUDE": 12.12,
         "LONGITUDE": -68.94
@@ -7161,21 +7161,21 @@
         "LONGITUDE": 101.23
     },
     {
-        "CITY": "Ere\u011fli",
+        "CITY": "Ereğli",
         "STATE": "Zonguldak",
         "COUNTRY": "Turkey",
         "LATITUDE": 41.28,
         "LONGITUDE": 31.41
     },
     {
-        "CITY": "Ere\u011fli",
+        "CITY": "Ereğli",
         "STATE": "Zonguldak",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.97,
         "LONGITUDE": 27.96
     },
     {
-        "CITY": "Ere\u011fli",
+        "CITY": "Ereğli",
         "STATE": "Zonguldak",
         "COUNTRY": "Turkey",
         "LATITUDE": 41.53,
@@ -7260,7 +7260,7 @@
     },
     {
         "CITY": "Espirito Santo",
-        "STATE": "Esp\u00edrito Santo",
+        "STATE": "Espírito Santo",
         "COUNTRY": "Brazil",
         "LATITUDE": -21.21,
         "LONGITUDE": -39.74
@@ -7323,14 +7323,14 @@
     },
     {
         "CITY": "Port-Gentil",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": -3.73,
         "LONGITUDE": 10.55
     },
     {
         "CITY": "Istres",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.34,
         "LONGITUDE": 5.34
@@ -7623,8 +7623,8 @@
         "LONGITUDE": -1.33
     },
     {
-        "CITY": "Macap\u00e1",
-        "STATE": "Amap\u00e1",
+        "CITY": "Macapá",
+        "STATE": "Amapá",
         "COUNTRY": "Brazil",
         "LATITUDE": -0.06,
         "LONGITUDE": -51.1
@@ -7693,7 +7693,7 @@
         "LONGITUDE": 0.97
     },
     {
-        "CITY": "A Coru\u00f1a",
+        "CITY": "A Coruña",
         "STATE": "Galicia",
         "COUNTRY": "Spain",
         "LATITUDE": 42.88,
@@ -7770,7 +7770,7 @@
         "LONGITUDE": -79.5
     },
     {
-        "CITY": "Flor\u00f8",
+        "CITY": "Florø",
         "STATE": "Vestland",
         "COUNTRY": "Norway",
         "LATITUDE": 61.6,
@@ -7805,8 +7805,8 @@
         "LONGITUDE": 105.67
     },
     {
-        "CITY": "Fo\u00e7a",
-        "STATE": "\u0130zmir",
+        "CITY": "Foça",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
         "LONGITUDE": 26.92
@@ -7869,7 +7869,7 @@
     },
     {
         "CITY": "Fortaleza",
-        "STATE": "Cear\u00e1",
+        "STATE": "Ceará",
         "COUNTRY": "Brazil",
         "LATITUDE": -3.67,
         "LONGITUDE": -38.49
@@ -7883,49 +7883,49 @@
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.41,
         "LONGITUDE": 4.9
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.43,
         "LONGITUDE": 4.87
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.42,
         "LONGITUDE": 4.83
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.4,
         "LONGITUDE": 4.85
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.43,
         "LONGITUDE": 4.89
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Bouches-du-Rh\u00f4ne",
+        "STATE": "Bouches-du-Rhône",
         "COUNTRY": "France",
         "LATITUDE": 43.45,
         "LONGITUDE": 4.86
     },
     {
         "CITY": "Fos-sur-Mer",
-        "STATE": "Bouches-du-Rh\u00f4ne",
+        "STATE": "Bouches-du-Rhône",
         "COUNTRY": "France",
         "LATITUDE": 43.41,
         "LONGITUDE": 4.9
@@ -7981,7 +7981,7 @@
     },
     {
         "CITY": "Fray Bentos",
-        "STATE": "R\u00edo Negro",
+        "STATE": "Río Negro",
         "COUNTRY": "Uruguay",
         "LATITUDE": -33.11,
         "LONGITUDE": -58.32
@@ -8051,7 +8051,7 @@
     },
     {
         "CITY": "Marseille",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.41,
         "LONGITUDE": 4.88
@@ -8065,7 +8065,7 @@
     },
     {
         "CITY": "Froland",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.34,
         "LONGITUDE": 11.9
@@ -8254,7 +8254,7 @@
     },
     {
         "CITY": "Gamba",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": -2.77,
         "LONGITUDE": 9.98
@@ -8303,7 +8303,7 @@
     },
     {
         "CITY": "Garrucha",
-        "STATE": "Almer\u00eda",
+        "STATE": "Almería",
         "COUNTRY": "Spain",
         "LATITUDE": 37.18,
         "LONGITUDE": -1.82
@@ -8345,7 +8345,7 @@
     },
     {
         "CITY": "Gavle",
-        "STATE": "G\u00e4vleborg",
+        "STATE": "Gävleborg",
         "COUNTRY": "Sweden",
         "LATITUDE": 60.68,
         "LONGITUDE": 17.19
@@ -8380,7 +8380,7 @@
     },
     {
         "CITY": "Osasco",
-        "STATE": "S\u00e3o Paulo",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.06,
         "LONGITUDE": -44.23
@@ -8547,7 +8547,7 @@
         "LONGITUDE": -5.62
     },
     {
-        "CITY": "Gij\u00f3n",
+        "CITY": "Gijón",
         "STATE": "Asturias",
         "COUNTRY": "Spain",
         "LATITUDE": 43.56,
@@ -8596,7 +8596,7 @@
         "LONGITUDE": 178.02
     },
     {
-        "CITY": "Gismer\u00f8y",
+        "CITY": "Gismerøy",
         "STATE": "Agder",
         "COUNTRY": "Norway",
         "LATITUDE": 58.02,
@@ -8701,8 +8701,8 @@
         "LONGITUDE": 9.62
     },
     {
-        "CITY": "Golfo San Mat\u00edas",
-        "STATE": "R\u00edo Negro",
+        "CITY": "Golfo San Matías",
+        "STATE": "Río Negro",
         "COUNTRY": "Argentina",
         "LATITUDE": -41.97,
         "LONGITUDE": -65.0
@@ -8737,7 +8737,7 @@
     },
     {
         "CITY": "Gothenburg",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 57.7,
         "LONGITUDE": 11.93
@@ -8765,7 +8765,7 @@
     },
     {
         "CITY": "Governo Island",
-        "STATE": "Amap\u00e1",
+        "STATE": "Amapá",
         "COUNTRY": "Brazil",
         "LATITUDE": -22.82,
         "LONGITUDE": -43.15
@@ -8799,7 +8799,7 @@
         "LONGITUDE": -3.68
     },
     {
-        "CITY": "F\u00e4rjestaden",
+        "CITY": "Färjestaden",
         "STATE": "Kalmar County",
         "COUNTRY": "Sweden",
         "LATITUDE": 60.68,
@@ -9003,7 +9003,7 @@
     },
     {
         "CITY": "Gothenburg",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 59.34,
         "LONGITUDE": 13.12
@@ -9023,28 +9023,28 @@
         "LONGITUDE": -71.25
     },
     {
-        "CITY": "Gua\u00edba",
+        "CITY": "Guaíba",
         "STATE": "Rio Grande do Sul",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.02,
         "LONGITUDE": -44.03
     },
     {
-        "CITY": "Gualeguaych\u00fa",
-        "STATE": "Entre R\u00edos",
+        "CITY": "Gualeguaychú",
+        "STATE": "Entre Ríos",
         "COUNTRY": "Argentina",
         "LATITUDE": -33.07,
         "LONGITUDE": -58.48
     },
     {
-        "CITY": "Hag\u00e5t\u00f1a",
+        "CITY": "Hagåtña",
         "STATE": "Guam",
         "COUNTRY": "Guam",
         "LATITUDE": 13.46,
         "LONGITUDE": 144.66
     },
     {
-        "CITY": "Guamar\u00e9",
+        "CITY": "Guamaré",
         "STATE": "Rio Grande do Norte",
         "COUNTRY": "Brazil",
         "LATITUDE": -4.86,
@@ -9066,7 +9066,7 @@
     },
     {
         "CITY": "Guanta",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.24,
         "LONGITUDE": -64.57
@@ -9080,20 +9080,20 @@
     },
     {
         "CITY": "Guaraguao",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.24,
         "LONGITUDE": -64.63
     },
     {
         "CITY": "Barcelona",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.24,
         "LONGITUDE": -64.63
     },
     {
-        "CITY": "Guayac\u00e1n",
+        "CITY": "Guayacán",
         "STATE": "Coquimbo",
         "COUNTRY": "Chile",
         "LATITUDE": -29.97,
@@ -9808,7 +9808,7 @@
     },
     {
         "CITY": "Helsingborg",
-        "STATE": "Sk\u00e5ne County",
+        "STATE": "Skåne County",
         "COUNTRY": "Sweden",
         "LATITUDE": 56.03,
         "LONGITUDE": 12.69
@@ -9863,8 +9863,8 @@
         "LONGITUDE": -91.17
     },
     {
-        "CITY": "H\u00e4rn\u00f6sand",
-        "STATE": "V\u00e4sternorrland",
+        "CITY": "Härnösand",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.64,
         "LONGITUDE": 17.94
@@ -10081,7 +10081,7 @@
     },
     {
         "CITY": "Homsvik",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 58.02,
         "LONGITUDE": 7.46
@@ -10094,8 +10094,8 @@
         "LONGITUDE": 107.07
     },
     {
-        "CITY": "H\u1ea1 Long",
-        "STATE": "Qu\u1ea3ng Ninh",
+        "CITY": "Hạ Long",
+        "STATE": "Quảng Ninh",
         "COUNTRY": "Vietnam",
         "LATITUDE": 20.95,
         "LONGITUDE": 107.07
@@ -10256,7 +10256,7 @@
     },
     {
         "CITY": "Talcahuano",
-        "STATE": "Biob\u00edo",
+        "STATE": "Biobío",
         "COUNTRY": "Chile",
         "LATITUDE": -36.74,
         "LONGITUDE": -73.14
@@ -10326,7 +10326,7 @@
     },
     {
         "CITY": "Hudiksvall",
-        "STATE": "G\u00e4vleborg",
+        "STATE": "Gävleborg",
         "COUNTRY": "Sweden",
         "LATITUDE": 61.72,
         "LONGITUDE": 17.12
@@ -10423,7 +10423,7 @@
         "LONGITUDE": -4.89
     },
     {
-        "CITY": "Hus\u00f8y",
+        "CITY": "Husøy",
         "STATE": "Troms og Finnmark",
         "COUNTRY": "Norway",
         "LATITUDE": 59.24,
@@ -10431,7 +10431,7 @@
     },
     {
         "CITY": "Husum",
-        "STATE": "V\u00e4sternorrland",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 63.29,
         "LONGITUDE": 18.71
@@ -10473,14 +10473,14 @@
     },
     {
         "CITY": "Ikornnes",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 62.39,
         "LONGITUDE": 6.56
     },
     {
         "CITY": "Ilhabela",
-        "STATE": "S\u00e3o Paulo",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.81,
         "LONGITUDE": -45.38
@@ -10507,7 +10507,7 @@
         "LONGITUDE": -43.15
     },
     {
-        "CITY": "Ilh\u00e9us",
+        "CITY": "Ilhéus",
         "STATE": "Bahia",
         "COUNTRY": "Brazil",
         "LATITUDE": -14.78,
@@ -10689,8 +10689,8 @@
         "LONGITUDE": -95.1
     },
     {
-        "CITY": "C\u00e1i M\u00e9p",
-        "STATE": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+        "CITY": "Cái Mép",
+        "STATE": "Bà Rịa-Vũng Tàu",
         "COUNTRY": "Vietnam",
         "LATITUDE": 10.77,
         "LONGITUDE": 106.71
@@ -10725,7 +10725,7 @@
     },
     {
         "CITY": "Iquique",
-        "STATE": "Tarapac\u00e1",
+        "STATE": "Tarapacá",
         "COUNTRY": "Chile",
         "LATITUDE": -20.2,
         "LONGITUDE": -70.16
@@ -10738,7 +10738,7 @@
         "LONGITUDE": -2.91
     },
     {
-        "CITY": "\u0130skenderun",
+        "CITY": "İskenderun",
         "STATE": "Hatay",
         "COUNTRY": "Turkey",
         "LATITUDE": 36.72,
@@ -10787,7 +10787,7 @@
         "LONGITUDE": 12.42
     },
     {
-        "CITY": "\u0130skenderun",
+        "CITY": "İskenderun",
         "STATE": "Hatay",
         "COUNTRY": "Turkey",
         "LATITUDE": 36.61,
@@ -10850,7 +10850,7 @@
         "LONGITUDE": -58.45
     },
     {
-        "CITY": "Itaja\u00ed",
+        "CITY": "Itajaí",
         "STATE": "Santa Catarina",
         "COUNTRY": "Brazil",
         "LATITUDE": -26.91,
@@ -11179,7 +11179,7 @@
         "LONGITUDE": -64.85
     },
     {
-        "CITY": "Jos\u00e9 Ignacio",
+        "CITY": "José Ignacio",
         "STATE": "Maldonado",
         "COUNTRY": "Uruguay",
         "LATITUDE": -34.9,
@@ -11187,14 +11187,14 @@
     },
     {
         "CITY": "Jose Platform",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.15,
         "LONGITUDE": -64.85
     },
     {
         "CITY": "Barcelona",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.15,
         "LONGITUDE": -64.85
@@ -11270,7 +11270,7 @@
         "LONGITUDE": 69.62
     },
     {
-        "CITY": "K\u00e5rst\u00f8",
+        "CITY": "Kårstø",
         "STATE": "Rogaland",
         "COUNTRY": "Norway",
         "LATITUDE": 59.27,
@@ -11291,8 +11291,8 @@
         "LONGITUDE": 104.14
     },
     {
-        "CITY": "K\u00e5ge",
-        "STATE": "V\u00e4sterbotten",
+        "CITY": "Kåge",
+        "STATE": "Västerbotten",
         "COUNTRY": "Sweden",
         "LATITUDE": 64.69,
         "LONGITUDE": 21.22
@@ -11432,7 +11432,7 @@
     },
     {
         "CITY": "Kamsar",
-        "STATE": "Bok\u00e9",
+        "STATE": "Boké",
         "COUNTRY": "Guinea",
         "LATITUDE": 10.64,
         "LONGITUDE": -14.63
@@ -11501,7 +11501,7 @@
         "LONGITUDE": 120.3
     },
     {
-        "CITY": "Kapellsk\u00e4r",
+        "CITY": "Kapellskär",
         "STATE": "Stockholm",
         "COUNTRY": "Sweden",
         "LATITUDE": 59.72,
@@ -11543,7 +11543,7 @@
         "LONGITUDE": 24.04
     },
     {
-        "CITY": "Plo\u010de",
+        "CITY": "Ploče",
         "STATE": "Dubrovnik-Neretva",
         "COUNTRY": "Croatia",
         "LATITUDE": 43.05,
@@ -11557,7 +11557,7 @@
         "LONGITUDE": 130.93
     },
     {
-        "CITY": "Karlsh\u00e4ll",
+        "CITY": "Karlshäll",
         "STATE": "Norrbotten",
         "COUNTRY": "Sweden",
         "LATITUDE": 65.57,
@@ -11600,7 +11600,7 @@
     },
     {
         "CITY": "Karskar - Langharen",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 60.69,
         "LONGITUDE": 17.28
@@ -11928,7 +11928,7 @@
         "LONGITUDE": 10.15
     },
     {
-        "CITY": "Brunsb\u00fcttel",
+        "CITY": "Brunsbüttel",
         "STATE": "Schleswig-Holstein",
         "COUNTRY": "Denmark",
         "LATITUDE": 53.88,
@@ -12153,14 +12153,14 @@
     },
     {
         "CITY": "Klaipeda",
-        "STATE": "Klaip\u0117dos Apskritis",
+        "STATE": "Klaipėdos Apskritis",
         "COUNTRY": "Lithuania",
         "LATITUDE": 55.7,
         "LONGITUDE": 21.12
     },
     {
         "CITY": "Kleven",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 58.02,
         "LONGITUDE": 7.46
@@ -12215,7 +12215,7 @@
         "LONGITUDE": 134.65
     },
     {
-        "CITY": "K\u00f8ge",
+        "CITY": "Køge",
         "STATE": "Region Zealand",
         "COUNTRY": "Denmark",
         "LATITUDE": 55.46,
@@ -12313,8 +12313,8 @@
         "LONGITUDE": 13.73
     },
     {
-        "CITY": "K\u00f6ping",
-        "STATE": "V\u00e4stmanland",
+        "CITY": "Köping",
+        "STATE": "Västmanland",
         "COUNTRY": "Sweden",
         "LATITUDE": 59.5,
         "LONGITUDE": 16.02
@@ -12412,7 +12412,7 @@
     },
     {
         "CITY": "Kristiansund",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 63.11,
         "LONGITUDE": 7.74
@@ -12496,7 +12496,7 @@
     },
     {
         "CITY": "Sundsvall",
-        "STATE": "V\u00e4sternorrland",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.38,
         "LONGITUDE": 17.37
@@ -12552,7 +12552,7 @@
     },
     {
         "CITY": "Kunda",
-        "STATE": "L\u00e4\u00e4ne-Viru County",
+        "STATE": "Lääne-Viru County",
         "COUNTRY": "Estonia",
         "LATITUDE": 59.57,
         "LONGITUDE": 26.52
@@ -12692,7 +12692,7 @@
     },
     {
         "CITY": "Martigues",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.4,
         "LONGITUDE": 5.09
@@ -12748,7 +12748,7 @@
     },
     {
         "CITY": "La Pointe de Berre",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.34,
         "LONGITUDE": 5.34
@@ -12769,7 +12769,7 @@
     },
     {
         "CITY": "La Seyne-sur-Mer",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.11,
         "LONGITUDE": 5.91
@@ -12811,7 +12811,7 @@
     },
     {
         "CITY": "Laayoune",
-        "STATE": "La\u00e2youne-Sakia El Hamra",
+        "STATE": "Laâyoune-Sakia El Hamra",
         "COUNTRY": "Morocco",
         "LATITUDE": 27.07,
         "LONGITUDE": -13.47
@@ -12937,7 +12937,7 @@
     },
     {
         "CITY": "Landskrona",
-        "STATE": "Sk\u00e5ne",
+        "STATE": "Skåne",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.86,
         "LONGITUDE": 12.83
@@ -12986,7 +12986,7 @@
     },
     {
         "CITY": "Larkollen",
-        "STATE": "\u00d8stfold",
+        "STATE": "Østfold",
         "COUNTRY": "Norway",
         "LATITUDE": 59.34,
         "LONGITUDE": 10.66
@@ -13035,7 +13035,7 @@
     },
     {
         "CITY": "Las Salinas Terminal",
-        "STATE": "Valpara\u00edso",
+        "STATE": "Valparaíso",
         "COUNTRY": "Chile",
         "LATITUDE": -33.0,
         "LONGITUDE": -71.57
@@ -13070,7 +13070,7 @@
     },
     {
         "CITY": "Martigues",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.4,
         "LONGITUDE": 4.99
@@ -13091,7 +13091,7 @@
     },
     {
         "CITY": "Lazaro Cardenas",
-        "STATE": "Michoac\u00e1n",
+        "STATE": "Michoacán",
         "COUNTRY": "Mexico",
         "LATITUDE": 17.93,
         "LONGITUDE": -102.18
@@ -13112,7 +13112,7 @@
     },
     {
         "CITY": "Le Verdon",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 45.55,
         "LONGITUDE": -1.03
@@ -13252,7 +13252,7 @@
     },
     {
         "CITY": "Dili",
-        "STATE": "D\u00edli",
+        "STATE": "Díli",
         "COUNTRY": "East Timor",
         "LATITUDE": -11.04,
         "LONGITUDE": 126.63
@@ -13273,7 +13273,7 @@
     },
     {
         "CITY": "Liepaja",
-        "STATE": "Liep\u0101ja Municipality",
+        "STATE": "Liepāja Municipality",
         "COUNTRY": "Latvia",
         "LATITUDE": 56.53,
         "LONGITUDE": 20.99
@@ -13322,7 +13322,7 @@
     },
     {
         "CITY": "Limhamn",
-        "STATE": "Sk\u00e5ne County",
+        "STATE": "Skåne County",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.59,
         "LONGITUDE": 12.93
@@ -13363,8 +13363,8 @@
         "LONGITUDE": 102.0
     },
     {
-        "CITY": "Lirqu\u00e9n",
-        "STATE": "Biob\u00edo",
+        "CITY": "Lirquén",
+        "STATE": "Biobío",
         "COUNTRY": "Chile",
         "LATITUDE": -36.71,
         "LONGITUDE": -72.99
@@ -13482,7 +13482,7 @@
         "LONGITUDE": -76.57
     },
     {
-        "CITY": "L\u00f8dingen",
+        "CITY": "Lødingen",
         "STATE": "Nordland",
         "COUNTRY": "Norway",
         "LATITUDE": 68.42,
@@ -13637,7 +13637,7 @@
     },
     {
         "CITY": "Los Cocos",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.24,
         "LONGITUDE": -64.63
@@ -13700,7 +13700,7 @@
     },
     {
         "CITY": "Lucina",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": -3.64,
         "LONGITUDE": 10.75
@@ -13721,7 +13721,7 @@
     },
     {
         "CITY": "Lugnvik",
-        "STATE": "J\u00e4mtland",
+        "STATE": "Jämtland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.64,
         "LONGITUDE": 17.94
@@ -13798,7 +13798,7 @@
     },
     {
         "CITY": "Lysekil",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.27,
         "LONGITUDE": 11.44
@@ -13811,7 +13811,7 @@
         "LONGITUDE": 172.72
     },
     {
-        "CITY": "M\u00e5l\u00f8y",
+        "CITY": "Måløy",
         "STATE": "Vestland",
         "COUNTRY": "Norway",
         "LATITUDE": 61.94,
@@ -13860,8 +13860,8 @@
         "LONGITUDE": 113.56
     },
     {
-        "CITY": "Macap\u00e1",
-        "STATE": "Amap\u00e1",
+        "CITY": "Macapá",
+        "STATE": "Amapá",
         "COUNTRY": "Brazil",
         "LATITUDE": 0.03,
         "LONGITUDE": -51.02
@@ -13874,7 +13874,7 @@
         "LONGITUDE": 119.4
     },
     {
-        "CITY": "Macei\u00f3",
+        "CITY": "Maceió",
         "STATE": "Alagoas",
         "COUNTRY": "Brazil",
         "LATITUDE": -9.7,
@@ -14050,14 +14050,14 @@
     },
     {
         "CITY": "Malmo",
-        "STATE": "Sk\u00e5ne",
+        "STATE": "Skåne",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.62,
         "LONGITUDE": 12.99
     },
     {
-        "CITY": "Malm\u00f6",
-        "STATE": "Sk\u00e5ne",
+        "CITY": "Malmö",
+        "STATE": "Skåne",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.64,
         "LONGITUDE": 13.02
@@ -14092,7 +14092,7 @@
     },
     {
         "CITY": "Mamonal",
-        "STATE": "Bol\u00edvar",
+        "STATE": "Bolívar",
         "COUNTRY": "Colombia",
         "LATITUDE": 10.32,
         "LONGITUDE": -75.51
@@ -14148,7 +14148,7 @@
     },
     {
         "CITY": "Mangalia",
-        "STATE": "Constan\u021ba",
+        "STATE": "Constanța",
         "COUNTRY": "Romania",
         "LATITUDE": 43.8,
         "LONGITUDE": 28.58
@@ -14197,7 +14197,7 @@
     },
     {
         "CITY": "Manta",
-        "STATE": "Manab\u00ed",
+        "STATE": "Manabí",
         "COUNTRY": "Ecuador",
         "LATITUDE": -0.93,
         "LONGITUDE": -80.72
@@ -14211,7 +14211,7 @@
     },
     {
         "CITY": "Manzanillo",
-        "STATE": "Col\u00f3n",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.37,
         "LONGITUDE": -79.89
@@ -14281,7 +14281,7 @@
     },
     {
         "CITY": "Mariehamn",
-        "STATE": "\u00c5land Islands",
+        "STATE": "Åland Islands",
         "COUNTRY": "Finland",
         "LATITUDE": 60.1,
         "LONGITUDE": 19.92
@@ -14294,7 +14294,7 @@
         "LONGITUDE": -82.76
     },
     {
-        "CITY": "Mar\u00edn",
+        "CITY": "Marín",
         "STATE": "Pontevedra",
         "COUNTRY": "Spain",
         "LATITUDE": 42.4,
@@ -14329,8 +14329,8 @@
         "LONGITUDE": -40.07
     },
     {
-        "CITY": "Marmara Ere\u011flisi",
-        "STATE": "Tekirda\u011f",
+        "CITY": "Marmara Ereğlisi",
+        "STATE": "Tekirdağ",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.97,
         "LONGITUDE": 27.96
@@ -14393,13 +14393,13 @@
     },
     {
         "CITY": "Marseille",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.34,
         "LONGITUDE": 5.34
     },
     {
-        "CITY": "Mart\u00edn Garc\u00eda",
+        "CITY": "Martín García",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -34.63,
@@ -14539,7 +14539,7 @@
         "LONGITUDE": 45.27
     },
     {
-        "CITY": "Mazatl\u00e1n",
+        "CITY": "Mazatlán",
         "STATE": "Sinaloa",
         "COUNTRY": "Mexico",
         "LATITUDE": 23.19,
@@ -14638,7 +14638,7 @@
     },
     {
         "CITY": "Mellos Harbour",
-        "STATE": "Tr\u00f8ndelag",
+        "STATE": "Trøndelag",
         "COUNTRY": "Norway",
         "LATITUDE": 59.21,
         "LONGITUDE": 10.96
@@ -14715,7 +14715,7 @@
     },
     {
         "CITY": "Midas",
-        "STATE": "Eski\u015fehir",
+        "STATE": "Eskişehir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
         "LONGITUDE": 26.92
@@ -14736,14 +14736,14 @@
     },
     {
         "CITY": "Midia",
-        "STATE": "Constan\u021ba",
+        "STATE": "Constanța",
         "COUNTRY": "Romania",
         "LATITUDE": 44.33,
         "LONGITUDE": 28.68
     },
     {
         "CITY": "Midia",
-        "STATE": "Constan\u021ba",
+        "STATE": "Constanța",
         "COUNTRY": "Romania",
         "LATITUDE": 44.29,
         "LONGITUDE": 28.78
@@ -14981,7 +14981,7 @@
     },
     {
         "CITY": "Moa",
-        "STATE": "Holgu\u00edn",
+        "STATE": "Holguín",
         "COUNTRY": "Cuba",
         "LATITUDE": 20.66,
         "LONGITUDE": -74.91
@@ -15008,7 +15008,7 @@
         "LONGITUDE": 40.79
     },
     {
-        "CITY": "Mo\u00e7\u00e2medes",
+        "CITY": "Moçâmedes",
         "STATE": "Namibe",
         "COUNTRY": "Angola",
         "LATITUDE": -15.19,
@@ -15050,8 +15050,8 @@
         "LONGITUDE": -7.39
     },
     {
-        "CITY": "Lim\u00f3n",
-        "STATE": "Lim\u00f3n",
+        "CITY": "Limón",
+        "STATE": "Limón",
         "COUNTRY": "Costa Rica",
         "LATITUDE": 10.01,
         "LONGITUDE": -83.08
@@ -15345,7 +15345,7 @@
     },
     {
         "CITY": "Mugardos",
-        "STATE": "A Coru\u00f1a",
+        "STATE": "A Coruña",
         "COUNTRY": "Spain",
         "LATITUDE": 43.46,
         "LONGITUDE": -8.23
@@ -15597,14 +15597,14 @@
     },
     {
         "CITY": "Namsos",
-        "STATE": "Tr\u00f8ndelag",
+        "STATE": "Trøndelag",
         "COUNTRY": "Norway",
         "LATITUDE": 64.46,
         "LONGITUDE": 11.49
     },
     {
         "CITY": "Namsos",
-        "STATE": "Tr\u00f8ndelag",
+        "STATE": "Trøndelag",
         "COUNTRY": "Norway",
         "LATITUDE": 64.94,
         "LONGITUDE": 11.46
@@ -15625,7 +15625,7 @@
     },
     {
         "CITY": "Port-Gentil",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": 0.4,
         "LONGITUDE": 9.2
@@ -15848,15 +15848,15 @@
         "LONGITUDE": 173.27
     },
     {
-        "CITY": "Ad\u0131yaman",
-        "STATE": "Ad\u0131yaman Province",
+        "CITY": "Adıyaman",
+        "STATE": "Adıyaman Province",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
         "LONGITUDE": 26.92
     },
     {
         "CITY": "Nemtas",
-        "STATE": "\u0130zmir",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
         "LONGITUDE": 26.92
@@ -16030,7 +16030,7 @@
         "LONGITUDE": 25.69
     },
     {
-        "CITY": "Nh\u00e0 B\u00e8",
+        "CITY": "Nhà Bè",
         "STATE": "Ho Chi Minh",
         "COUNTRY": "Vietnam",
         "LATITUDE": 10.7,
@@ -16052,7 +16052,7 @@
     },
     {
         "CITY": "Nice",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.69,
         "LONGITUDE": 7.29
@@ -16198,8 +16198,8 @@
         "LONGITUDE": 157.2
     },
     {
-        "CITY": "Norrk\u00f6ping",
-        "STATE": "\u00d6sterg\u00f6tland",
+        "CITY": "Norrköping",
+        "STATE": "Östergötland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.6,
         "LONGITUDE": 16.22
@@ -16212,7 +16212,7 @@
         "LONGITUDE": -1.16
     },
     {
-        "CITY": "Honningsv\u00e5g",
+        "CITY": "Honningsvåg",
         "STATE": "Finnmark",
         "COUNTRY": "Norway",
         "LATITUDE": 71.67,
@@ -16359,7 +16359,7 @@
         "LONGITUDE": 24.0
     },
     {
-        "CITY": "R\u00f8st",
+        "CITY": "Røst",
         "STATE": "Nordland",
         "COUNTRY": "Norway",
         "LATITUDE": 67.6,
@@ -16416,14 +16416,14 @@
     },
     {
         "CITY": "Nuevitas",
-        "STATE": "Camag\u00fcey",
+        "STATE": "Camagüey",
         "COUNTRY": "Cuba",
         "LATITUDE": 21.57,
         "LONGITUDE": -77.24
     },
     {
-        "CITY": "Nuevo Berl\u00edn",
-        "STATE": "R\u00edo Negro",
+        "CITY": "Nuevo Berlín",
+        "STATE": "Río Negro",
         "COUNTRY": "Uruguay",
         "LATITUDE": -32.97,
         "LONGITUDE": -58.07
@@ -16465,14 +16465,14 @@
     },
     {
         "CITY": "Nyhamn",
-        "STATE": "Sk\u00e5ne County",
+        "STATE": "Skåne County",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.86,
         "LONGITUDE": 12.83
     },
     {
         "CITY": "Nyhamna",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 62.85,
         "LONGITUDE": 6.95
@@ -16723,8 +16723,8 @@
         "LONGITUDE": 2.68
     },
     {
-        "CITY": "Cura\u00e7ao",
-        "STATE": "Cura\u00e7ao",
+        "CITY": "Curaçao",
+        "STATE": "Curaçao",
         "COUNTRY": "Netherlands Antilles",
         "LATITUDE": 12.17,
         "LONGITUDE": -69.17
@@ -16892,7 +16892,7 @@
     },
     {
         "CITY": "Kalundborg",
-        "STATE": "Sj\u00e6lland",
+        "STATE": "Sjælland",
         "COUNTRY": "Denmark",
         "LATITUDE": 55.71,
         "LONGITUDE": 10.93
@@ -17080,8 +17080,8 @@
         "LONGITUDE": 8.9
     },
     {
-        "CITY": "\u00d6hmans",
-        "STATE": "V\u00e4sterbotten",
+        "CITY": "Öhmans",
+        "STATE": "Västerbotten",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.6,
         "LONGITUDE": 16.22
@@ -17207,7 +17207,7 @@
     },
     {
         "CITY": "Port-Gentil",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": -3.13,
         "LONGITUDE": 10.21
@@ -17304,15 +17304,15 @@
         "LONGITUDE": 25.43
     },
     {
-        "CITY": "\u00d6rnsk\u00f6ldsvik",
-        "STATE": "V\u00e4sternorrland",
+        "CITY": "Örnsköldsvik",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 63.29,
         "LONGITUDE": 18.71
     },
     {
-        "CITY": "Orrsk\u00e4r",
-        "STATE": "G\u00e4vleborg County",
+        "CITY": "Orrskär",
+        "STATE": "Gävleborg County",
         "COUNTRY": "Sweden",
         "LATITUDE": 61.31,
         "LONGITUDE": 17.07
@@ -17326,7 +17326,7 @@
     },
     {
         "CITY": "Ortviken",
-        "STATE": "V\u00e4sternorrland",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.39,
         "LONGITUDE": 17.35
@@ -17368,7 +17368,7 @@
     },
     {
         "CITY": "Ostrand",
-        "STATE": "V\u00e4sternorrland",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.39,
         "LONGITUDE": 17.35
@@ -17458,8 +17458,8 @@
         "LONGITUDE": 136.22
     },
     {
-        "CITY": "Oxel\u00f6sund",
-        "STATE": "S\u00f6dermanland",
+        "CITY": "Oxelösund",
+        "STATE": "Södermanland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.66,
         "LONGITUDE": 17.12
@@ -17550,7 +17550,7 @@
     },
     {
         "CITY": "Palenque",
-        "STATE": "San Crist\u00f3bal",
+        "STATE": "San Cristóbal",
         "COUNTRY": "Dominican Republic",
         "LATITUDE": 18.21,
         "LONGITUDE": -70.2
@@ -17599,7 +17599,7 @@
     },
     {
         "CITY": "Pamatacual",
-        "STATE": "Gu\u00e1rico",
+        "STATE": "Guárico",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.25,
         "LONGITUDE": -64.65
@@ -17696,8 +17696,8 @@
         "LONGITUDE": 86.69
     },
     {
-        "CITY": "Paraguan\u00e1",
-        "STATE": "Falc\u00f3n",
+        "CITY": "Paraguaná",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 11.63,
         "LONGITUDE": -70.24
@@ -17717,15 +17717,15 @@
         "LONGITUDE": -77.86
     },
     {
-        "CITY": "Paran\u00e1",
-        "STATE": "Entre R\u00edos",
+        "CITY": "Paraná",
+        "STATE": "Entre Ríos",
         "COUNTRY": "Argentina",
         "LATITUDE": -31.72,
         "LONGITUDE": -60.53
     },
     {
-        "CITY": "Paranagu\u00e1",
-        "STATE": "Paran\u00e1",
+        "CITY": "Paranaguá",
+        "STATE": "Paraná",
         "COUNTRY": "Brazil",
         "LATITUDE": -25.5,
         "LONGITUDE": -48.51
@@ -17738,8 +17738,8 @@
         "LONGITUDE": -55.08
     },
     {
-        "CITY": "P\u00e4rnu",
-        "STATE": "P\u00e4rnu maakond",
+        "CITY": "Pärnu",
+        "STATE": "Pärnu maakond",
         "COUNTRY": "Estonia",
         "LATITUDE": 58.39,
         "LONGITUDE": 24.48
@@ -17843,8 +17843,8 @@
         "LONGITUDE": -75.25
     },
     {
-        "CITY": "Paysand\u00fa",
-        "STATE": "Paysand\u00fa",
+        "CITY": "Paysandú",
+        "STATE": "Paysandú",
         "COUNTRY": "Uruguay",
         "LATITUDE": -32.31,
         "LONGITUDE": -58.11
@@ -17857,8 +17857,8 @@
         "LONGITUDE": 12.12
     },
     {
-        "CITY": "Pec\u00e9m",
-        "STATE": "Cear\u00e1",
+        "CITY": "Pecém",
+        "STATE": "Ceará",
         "COUNTRY": "Brazil",
         "LATITUDE": -3.53,
         "LONGITUDE": -38.8
@@ -17921,7 +17921,7 @@
     },
     {
         "CITY": "Penco",
-        "STATE": "Biob\u00edo",
+        "STATE": "Biobío",
         "COUNTRY": "Chile",
         "LATITUDE": -36.72,
         "LONGITUDE": -73.01
@@ -17984,7 +17984,7 @@
     },
     {
         "CITY": "Percy",
-        "STATE": "Araucan\u00eda",
+        "STATE": "Araucanía",
         "COUNTRY": "Chile",
         "LATITUDE": -53.17,
         "LONGITUDE": -70.9
@@ -18011,7 +18011,7 @@
         "LONGITUDE": -74.26
     },
     {
-        "CITY": "San Vicente de Ca\u00f1ete",
+        "CITY": "San Vicente de Cañete",
         "STATE": "Lima",
         "COUNTRY": "Peru",
         "LATITUDE": -13.26,
@@ -18046,8 +18046,8 @@
         "LONGITUDE": 1.01
     },
     {
-        "CITY": "Alia\u011fa",
-        "STATE": "\u0130zmir",
+        "CITY": "Aliağa",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 38.78,
         "LONGITUDE": 26.92
@@ -18061,14 +18061,14 @@
     },
     {
         "CITY": "David",
-        "STATE": "Chiriqu\u00ed",
+        "STATE": "Chiriquí",
         "COUNTRY": "Panama",
         "LATITUDE": 8.21,
         "LONGITUDE": -82.86
     },
     {
         "CITY": "Petrozuata",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.15,
         "LONGITUDE": -64.85
@@ -18208,7 +18208,7 @@
     },
     {
         "CITY": "Pirsus",
-        "STATE": "\u015eanl\u0131urfa",
+        "STATE": "Şanlıurfa",
         "COUNTRY": "Turkey",
         "LATITUDE": 36.72,
         "LONGITUDE": 36.19
@@ -18228,7 +18228,7 @@
         "LONGITUDE": -130.1
     },
     {
-        "CITY": "Pite\u00e5",
+        "CITY": "Piteå",
         "STATE": "Norrbotten",
         "COUNTRY": "Sweden",
         "LATITUDE": 65.23,
@@ -18270,7 +18270,7 @@
         "LONGITUDE": 101.47
     },
     {
-        "CITY": "Plo\u010de",
+        "CITY": "Ploče",
         "STATE": "Dubrovnik-Neretva",
         "COUNTRY": "Croatia",
         "LATITUDE": 43.03,
@@ -18347,7 +18347,7 @@
         "LONGITUDE": -61.35
     },
     {
-        "CITY": "Pointe \u00e0 la Hache",
+        "CITY": "Pointe à la Hache",
         "STATE": "Louisiana",
         "COUNTRY": "U.S.A.",
         "LATITUDE": 29.57,
@@ -18410,7 +18410,7 @@
         "LONGITUDE": -61.53
     },
     {
-        "CITY": "Pointe-\u00e0-Pitre",
+        "CITY": "Pointe-à-Pitre",
         "STATE": "Guadeloupe",
         "COUNTRY": "Guadeloupe",
         "LATITUDE": 16.23,
@@ -18446,7 +18446,7 @@
     },
     {
         "CITY": "Ponta da Madeira",
-        "STATE": "Maranh\u00e3o",
+        "STATE": "Maranhão",
         "COUNTRY": "Brazil",
         "LATITUDE": -2.57,
         "LONGITUDE": -44.38
@@ -18460,7 +18460,7 @@
     },
     {
         "CITY": "Anchieta",
-        "STATE": "Esp\u00edrito Santo",
+        "STATE": "Espírito Santo",
         "COUNTRY": "Brazil",
         "LATITUDE": -20.78,
         "LONGITUDE": -40.56
@@ -18474,7 +18474,7 @@
     },
     {
         "CITY": "Antonina",
-        "STATE": "Paran\u00e1",
+        "STATE": "Paraná",
         "COUNTRY": "Brazil",
         "LATITUDE": -25.45,
         "LONGITUDE": -48.67
@@ -18642,14 +18642,14 @@
     },
     {
         "CITY": "Port-de-Bouc",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.4,
         "LONGITUDE": 4.99
     },
     {
         "CITY": "Ghannouch",
-        "STATE": "Gab\u00e8s",
+        "STATE": "Gabès",
         "COUNTRY": "Tunisia",
         "LATITUDE": 33.92,
         "LONGITUDE": 10.1
@@ -18698,7 +18698,7 @@
     },
     {
         "CITY": "Port",
-        "STATE": "R\u00e9union",
+        "STATE": "Réunion",
         "COUNTRY": "Reunion",
         "LATITUDE": -20.93,
         "LONGITUDE": 55.32
@@ -18719,7 +18719,7 @@
     },
     {
         "CITY": "Port Gentil",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": -0.68,
         "LONGITUDE": 8.78
@@ -18774,7 +18774,7 @@
         "LONGITUDE": 32.51
     },
     {
-        "CITY": "Port-J\u00e9r\u00f4me-sur-Seine",
+        "CITY": "Port-Jérôme-sur-Seine",
         "STATE": "Normandy",
         "COUNTRY": "France",
         "LATITUDE": 49.47,
@@ -18942,7 +18942,7 @@
         "LONGITUDE": 138.01
     },
     {
-        "CITY": "Port P\u00f3\u0142nocny",
+        "CITY": "Port Północny",
         "STATE": "Pomeranian Voivodeship",
         "COUNTRY": "Poland",
         "LATITUDE": 54.4,
@@ -19090,7 +19090,7 @@
     },
     {
         "CITY": "Port Victoria",
-        "STATE": "Mah\u00e9",
+        "STATE": "Mahé",
         "COUNTRY": "Seychelles",
         "LATITUDE": -4.62,
         "LONGITUDE": 55.46
@@ -19194,7 +19194,7 @@
         "LONGITUDE": 9.07
     },
     {
-        "CITY": "Itagua\u00ed",
+        "CITY": "Itaguaí",
         "STATE": "Rio de Janeiro",
         "COUNTRY": "Brazil",
         "LATITUDE": -22.93,
@@ -19376,7 +19376,7 @@
         "LONGITUDE": 100.36
     },
     {
-        "CITY": "Praia da Vit\u00f3ria",
+        "CITY": "Praia da Vitória",
         "STATE": "Azores",
         "COUNTRY": "Azores",
         "LATITUDE": 38.73,
@@ -19390,7 +19390,7 @@
         "LONGITUDE": -16.91
     },
     {
-        "CITY": "Florian\u00f3polis",
+        "CITY": "Florianópolis",
         "STATE": "Santa Catarina",
         "COUNTRY": "Brazil",
         "LATITUDE": -20.29,
@@ -19447,7 +19447,7 @@
     },
     {
         "CITY": "Progreso",
-        "STATE": "Yucat\u00e1n",
+        "STATE": "Yucatán",
         "COUNTRY": "Mexico",
         "LATITUDE": 21.34,
         "LONGITUDE": -89.68
@@ -19496,14 +19496,14 @@
     },
     {
         "CITY": "Puerto Armuelles",
-        "STATE": "Chiriqu\u00ed",
+        "STATE": "Chiriquí",
         "COUNTRY": "Panama",
         "LATITUDE": 8.21,
         "LONGITUDE": -82.86
     },
     {
         "CITY": "Cartagena",
-        "STATE": "Bol\u00edvar",
+        "STATE": "Bolívar",
         "COUNTRY": "Colombia",
         "LATITUDE": 10.29,
         "LONGITUDE": -75.53
@@ -19530,14 +19530,14 @@
         "LONGITUDE": -62.1
     },
     {
-        "CITY": "Puerto Bol\u00edvar",
+        "CITY": "Puerto Bolívar",
         "STATE": "La Guajira",
         "COUNTRY": "Colombia",
         "LATITUDE": 12.26,
         "LONGITUDE": -71.96
     },
     {
-        "CITY": "Puerto Bol\u00edvar",
+        "CITY": "Puerto Bolívar",
         "STATE": "El Oro",
         "COUNTRY": "Ecuador",
         "LATITUDE": -3.26,
@@ -19559,35 +19559,35 @@
     },
     {
         "CITY": "Puerto Castilla",
-        "STATE": "Col\u00f3n",
+        "STATE": "Colón",
         "COUNTRY": "Honduras",
         "LATITUDE": 16.23,
         "LONGITUDE": -85.97
     },
     {
         "CITY": "Puerto Chacabuco",
-        "STATE": "Ays\u00e9n",
+        "STATE": "Aysén",
         "COUNTRY": "Chile",
         "LATITUDE": -45.47,
         "LONGITUDE": -72.83
     },
     {
         "CITY": "Puerto Coral",
-        "STATE": "Los R\u00edos",
+        "STATE": "Los Ríos",
         "COUNTRY": "Chile",
         "LATITUDE": -41.47,
         "LONGITUDE": -72.94
     },
     {
         "CITY": "Puerto Cortes",
-        "STATE": "Cort\u00e9s",
+        "STATE": "Cortés",
         "COUNTRY": "Honduras",
         "LATITUDE": 15.84,
         "LONGITUDE": -87.96
     },
     {
         "CITY": "Puerto Cumarebo",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 11.49,
         "LONGITUDE": -69.36
@@ -19621,7 +19621,7 @@
         "LONGITUDE": -74.22
     },
     {
-        "CITY": "Bah\u00eda Blanca",
+        "CITY": "Bahía Blanca",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -38.79,
@@ -19635,22 +19635,22 @@
         "LONGITUDE": -57.89
     },
     {
-        "CITY": "Puerto Jos\u00e9",
-        "STATE": "Anzo\u00e1tegui",
+        "CITY": "Puerto José",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.15,
         "LONGITUDE": -64.85
     },
     {
         "CITY": "Puerto La Cruz",
-        "STATE": "Anzo\u00e1tegui",
+        "STATE": "Anzoátegui",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.24,
         "LONGITUDE": -64.63
     },
     {
-        "CITY": "Col\u00f3n",
-        "STATE": "Col\u00f3n",
+        "CITY": "Colón",
+        "STATE": "Colón",
         "COUNTRY": "Panama",
         "LATITUDE": 9.4,
         "LONGITUDE": -79.82
@@ -19663,22 +19663,22 @@
         "LONGITUDE": -112.74
     },
     {
-        "CITY": "Puerto Lim\u00f3n",
-        "STATE": "Lim\u00f3n",
+        "CITY": "Puerto Limón",
+        "STATE": "Limón",
         "COUNTRY": "Costa Rica",
         "LATITUDE": 9.99,
         "LONGITUDE": -83.02
     },
     {
         "CITY": "Puerto Miranda",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.76,
         "LONGITUDE": -71.56
     },
     {
-        "CITY": "Mo\u00edn",
-        "STATE": "Lim\u00f3n",
+        "CITY": "Moín",
+        "STATE": "Limón",
         "COUNTRY": "Costa Rica",
         "LATITUDE": 10.01,
         "LONGITUDE": -83.08
@@ -19692,7 +19692,7 @@
     },
     {
         "CITY": "Puerto Ordaz",
-        "STATE": "Bol\u00edvar",
+        "STATE": "Bolívar",
         "COUNTRY": "Venezuela",
         "LATITUDE": 8.33,
         "LONGITUDE": -62.71
@@ -19705,8 +19705,8 @@
         "LONGITUDE": -76.54
     },
     {
-        "CITY": "Puerto Para\u00f1a",
-        "STATE": "Entre R\u00edos",
+        "CITY": "Puerto Paraña",
+        "STATE": "Entre Ríos",
         "COUNTRY": "Argentina",
         "LATITUDE": -31.72,
         "LONGITUDE": -60.53
@@ -19733,7 +19733,7 @@
         "LONGITUDE": -78.18
     },
     {
-        "CITY": "Quequ\u00e9n",
+        "CITY": "Quequén",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -38.58,
@@ -19755,28 +19755,28 @@
     },
     {
         "CITY": "Puerto Sandino",
-        "STATE": "Le\u00f3n",
+        "STATE": "León",
         "COUNTRY": "Nicaragua",
         "LATITUDE": 12.13,
         "LONGITUDE": -86.83
     },
     {
         "CITY": "Puerto Sara",
-        "STATE": "Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+        "STATE": "Aysén del General Carlos Ibáñez del Campo",
         "COUNTRY": "Chile",
         "LATITUDE": -52.64,
         "LONGITUDE": -70.17
     },
     {
         "CITY": "Puerto Tarafa",
-        "STATE": "Camag\u00fcey",
+        "STATE": "Camagüey",
         "COUNTRY": "Cuba",
         "LATITUDE": 21.57,
         "LONGITUDE": -77.24
     },
     {
         "CITY": "Puerto Ventanas",
-        "STATE": "Valpara\u00edso",
+        "STATE": "Valparaíso",
         "COUNTRY": "Chile",
         "LATITUDE": -32.75,
         "LONGITUDE": -71.52
@@ -19867,14 +19867,14 @@
     },
     {
         "CITY": "Punta Arenas",
-        "STATE": "Magallanes y la Ant\u00e1rtica Chilena",
+        "STATE": "Magallanes y la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -53.17,
         "LONGITUDE": -70.9
     },
     {
-        "CITY": "Punta Card\u00f3n",
-        "STATE": "Falc\u00f3n",
+        "CITY": "Punta Cardón",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 11.62,
         "LONGITUDE": -70.24
@@ -19909,7 +19909,7 @@
     },
     {
         "CITY": "Punta Delgada",
-        "STATE": "Magallanes y la Ant\u00e1rtica Chilena",
+        "STATE": "Magallanes y la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -52.46,
         "LONGITUDE": -69.51
@@ -19937,7 +19937,7 @@
     },
     {
         "CITY": "Punta Gorda",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.15,
         "LONGITUDE": -63.03
@@ -19957,7 +19957,7 @@
         "LONGITUDE": -3.03
     },
     {
-        "CITY": "San Jos\u00e9 del Cabo",
+        "CITY": "San José del Cabo",
         "STATE": "Baja California Sur",
         "COUNTRY": "Mexico",
         "LATITUDE": 25.59,
@@ -19965,7 +19965,7 @@
     },
     {
         "CITY": "Punta Palenque",
-        "STATE": "San Crist\u00f3bal",
+        "STATE": "San Cristóbal",
         "COUNTRY": "Dominican Republic",
         "LATITUDE": 18.21,
         "LONGITUDE": -70.2
@@ -20020,8 +20020,8 @@
         "LONGITUDE": 128.82
     },
     {
-        "CITY": "P\u00e4rnu",
-        "STATE": "P\u00e4rnu County",
+        "CITY": "Pärnu",
+        "STATE": "Pärnu County",
         "COUNTRY": "Estonia",
         "LATITUDE": 58.39,
         "LONGITUDE": 24.48
@@ -20140,14 +20140,14 @@
     },
     {
         "CITY": "Qui Nhon",
-        "STATE": "B\u00ecnh \u0110\u1ecbnh",
+        "STATE": "Bình Định",
         "COUNTRY": "Vietnam",
         "LATITUDE": 13.77,
         "LONGITUDE": 109.25
     },
     {
         "CITY": "Quintero",
-        "STATE": "Valpara\u00edso",
+        "STATE": "Valparaíso",
         "COUNTRY": "Chile",
         "LATITUDE": -32.75,
         "LONGITUDE": -71.52
@@ -20272,8 +20272,8 @@
         "LONGITUDE": 108.25
     },
     {
-        "CITY": "V\u0169ng T\u00e0u",
-        "STATE": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+        "CITY": "Vũng Tàu",
+        "STATE": "Bà Rịa-Vũng Tàu",
         "COUNTRY": "Vietnam",
         "LATITUDE": 10.02,
         "LONGITUDE": 108.25
@@ -20447,7 +20447,7 @@
         "LONGITUDE": -56.0
     },
     {
-        "CITY": "Bah\u00eda Blanca",
+        "CITY": "Bahía Blanca",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -34.72,
@@ -20629,7 +20629,7 @@
         "LONGITUDE": -8.49
     },
     {
-        "CITY": "R\u00edo Cullen",
+        "CITY": "Río Cullen",
         "STATE": "Tierra del Fuego",
         "COUNTRY": "Argentina",
         "LATITUDE": -52.8,
@@ -20665,14 +20665,14 @@
     },
     {
         "CITY": "Rio Haina",
-        "STATE": "San Crist\u00f3bal",
+        "STATE": "San Cristóbal",
         "COUNTRY": "Dominican Republic",
         "LATITUDE": 18.42,
         "LONGITUDE": -70.02
     },
     {
         "CITY": "San Juan de los Morros",
-        "STATE": "Gu\u00e1rico",
+        "STATE": "Guárico",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.15,
         "LONGITUDE": -63.03
@@ -20790,7 +20790,7 @@
         "LONGITUDE": -77.23
     },
     {
-        "CITY": "R\u00f8dby",
+        "CITY": "Rødby",
         "STATE": "Region Zealand",
         "COUNTRY": "Denmark",
         "LATITUDE": 54.65,
@@ -20825,15 +20825,15 @@
         "LONGITUDE": 108.13
     },
     {
-        "CITY": "R\u00f8nne",
+        "CITY": "Rønne",
         "STATE": "Capital Region",
         "COUNTRY": "Denmark",
         "LATITUDE": 55.09,
         "LONGITUDE": 14.69
     },
     {
-        "CITY": "R\u00f6nnsk\u00e4r",
-        "STATE": "V\u00e4sterbotten",
+        "CITY": "Rönnskär",
+        "STATE": "Västerbotten",
         "COUNTRY": "Sweden",
         "LATITUDE": 64.69,
         "LONGITUDE": 21.22
@@ -20924,7 +20924,7 @@
     },
     {
         "CITY": "Rota",
-        "STATE": "C\u00e1diz",
+        "STATE": "Cádiz",
         "COUNTRY": "Spain",
         "LATITUDE": 36.62,
         "LONGITUDE": -6.33
@@ -21036,7 +21036,7 @@
     },
     {
         "CITY": "Rya",
-        "STATE": "Sk\u00e5ne County",
+        "STATE": "Skåne County",
         "COUNTRY": "Sweden",
         "LATITUDE": 57.7,
         "LONGITUDE": 11.93
@@ -21337,14 +21337,14 @@
     },
     {
         "CITY": "San Antonio Este",
-        "STATE": "R\u00edo Negro",
+        "STATE": "Río Negro",
         "COUNTRY": "Argentina",
         "LATITUDE": -40.8,
         "LONGITUDE": -64.89
     },
     {
         "CITY": "San Antonio",
-        "STATE": "Valpara\u00edso",
+        "STATE": "Valparaíso",
         "COUNTRY": "Chile",
         "LATITUDE": -33.58,
         "LONGITUDE": -71.63
@@ -21357,7 +21357,7 @@
         "LONGITUDE": -112.12
     },
     {
-        "CITY": "Sant Carles de la R\u00e0pita",
+        "CITY": "Sant Carles de la Ràpita",
         "STATE": "Catalonia",
         "COUNTRY": "Spain",
         "LATITUDE": 40.61,
@@ -21365,7 +21365,7 @@
     },
     {
         "CITY": "San Carlos Island",
-        "STATE": "Falc\u00f3n",
+        "STATE": "Falcón",
         "COUNTRY": "Venezuela",
         "LATITUDE": 10.98,
         "LONGITUDE": -71.6
@@ -21413,7 +21413,7 @@
         "LONGITUDE": 122.58
     },
     {
-        "CITY": "San Jos\u00e9",
+        "CITY": "San José",
         "STATE": "Guatemala",
         "COUNTRY": "Guatemala",
         "LATITUDE": 13.91,
@@ -21448,7 +21448,7 @@
         "LONGITUDE": -71.07
     },
     {
-        "CITY": "San Mart\u00edn",
+        "CITY": "San Martín",
         "STATE": "Mendoza",
         "COUNTRY": "Argentina",
         "LATITUDE": -32.72,
@@ -21469,14 +21469,14 @@
         "LONGITUDE": -69.93
     },
     {
-        "CITY": "San Nicol\u00e1s",
+        "CITY": "San Nicolás",
         "STATE": "Buenos Aires",
         "COUNTRY": "Argentina",
         "LATITUDE": -33.34,
         "LONGITUDE": -60.19
     },
     {
-        "CITY": "San Nicol\u00e1s",
+        "CITY": "San Nicolás",
         "STATE": "Lima",
         "COUNTRY": "Peru",
         "LATITUDE": -15.25,
@@ -21511,7 +21511,7 @@
         "LONGITUDE": -6.61
     },
     {
-        "CITY": "San Sebasti\u00e1n",
+        "CITY": "San Sebastián",
         "STATE": "Tierra del Fuego",
         "COUNTRY": "Argentina",
         "LATITUDE": -53.28,
@@ -21540,7 +21540,7 @@
     },
     {
         "CITY": "Sandarne",
-        "STATE": "G\u00e4vleborg",
+        "STATE": "Gävleborg",
         "COUNTRY": "Sweden",
         "LATITUDE": 61.31,
         "LONGITUDE": 17.07
@@ -21596,7 +21596,7 @@
     },
     {
         "CITY": "Willemstad",
-        "STATE": "Cura\u00e7ao",
+        "STATE": "Curaçao",
         "COUNTRY": "Netherlands Antilles",
         "LATITUDE": 12.11,
         "LONGITUDE": -68.93
@@ -21609,8 +21609,8 @@
         "LONGITUDE": -9.17
     },
     {
-        "CITY": "Santa B\u00e1rbara",
-        "STATE": "B\u00edo B\u00edo",
+        "CITY": "Santa Bárbara",
+        "STATE": "Bío Bío",
         "COUNTRY": "Chile",
         "LATITUDE": -28.46,
         "LONGITUDE": -71.25
@@ -21631,7 +21631,7 @@
     },
     {
         "CITY": "Santa Clara",
-        "STATE": "Paran\u00e1",
+        "STATE": "Paraná",
         "COUNTRY": "Brazil",
         "LATITUDE": -29.9,
         "LONGITUDE": -51.38
@@ -21701,7 +21701,7 @@
     },
     {
         "CITY": "Santana",
-        "STATE": "Amap\u00e1",
+        "STATE": "Amapá",
         "COUNTRY": "Brazil",
         "LATITUDE": -0.06,
         "LONGITUDE": -51.18
@@ -21714,8 +21714,8 @@
         "LONGITUDE": -3.82
     },
     {
-        "CITY": "Santar\u00e9m",
-        "STATE": "Par\u00e1",
+        "CITY": "Santarém",
+        "STATE": "Pará",
         "COUNTRY": "Brazil",
         "LATITUDE": -2.41,
         "LONGITUDE": -54.7
@@ -21756,36 +21756,36 @@
         "LONGITUDE": -3.03
     },
     {
-        "CITY": "S\u00e3o Crist\u00f3v\u00e3o",
+        "CITY": "São Cristóvão",
         "STATE": "Sergipe",
         "COUNTRY": "Brazil",
         "LATITUDE": -22.82,
         "LONGITUDE": -43.15
     },
     {
-        "CITY": "S\u00e3o Francisco do Sul",
+        "CITY": "São Francisco do Sul",
         "STATE": "Santa Catarina",
         "COUNTRY": "Brazil",
         "LATITUDE": -26.24,
         "LONGITUDE": -48.64
     },
     {
-        "CITY": "S\u00e3o Jos\u00e9 do Norte",
+        "CITY": "São José do Norte",
         "STATE": "Rio Grande do Sul",
         "COUNTRY": "Brazil",
         "LATITUDE": -32.02,
         "LONGITUDE": -52.05
     },
     {
-        "CITY": "S\u00e3o Lu\u00eds",
-        "STATE": "Maranh\u00e3o",
+        "CITY": "São Luís",
+        "STATE": "Maranhão",
         "COUNTRY": "Brazil",
         "LATITUDE": -2.57,
         "LONGITUDE": -44.38
     },
     {
-        "CITY": "S\u00e3o Sebasti\u00e3o",
-        "STATE": "S\u00e3o Paulo",
+        "CITY": "São Sebastião",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.81,
         "LONGITUDE": -45.38
@@ -21911,7 +21911,7 @@
     },
     {
         "CITY": "Schottegat",
-        "STATE": "Cura\u00e7ao",
+        "STATE": "Curaçao",
         "COUNTRY": "Netherlands Antilles",
         "LATITUDE": 12.11,
         "LONGITUDE": -68.93
@@ -22162,7 +22162,7 @@
         "LONGITUDE": -43.84
     },
     {
-        "CITY": "Sept-\u00celes",
+        "CITY": "Sept-Îles",
         "STATE": "Quebec",
         "COUNTRY": "Canada",
         "LATITUDE": 50.2,
@@ -22183,7 +22183,7 @@
         "LONGITUDE": 8.07
     },
     {
-        "CITY": "S\u00e8te",
+        "CITY": "Sète",
         "STATE": "Occitanie",
         "COUNTRY": "France",
         "LATITUDE": 43.4,
@@ -22191,7 +22191,7 @@
     },
     {
         "CITY": "Sette Cama",
-        "STATE": "Ogoou\u00e9-Maritime",
+        "STATE": "Ogooué-Maritime",
         "COUNTRY": "Gabon",
         "LATITUDE": -2.77,
         "LONGITUDE": 9.98
@@ -22561,7 +22561,7 @@
         "LONGITUDE": 69.78
     },
     {
-        "CITY": "Sillam\u00e4e",
+        "CITY": "Sillamäe",
         "STATE": "Ida-Viru County",
         "COUNTRY": "Estonia",
         "LATITUDE": 59.42,
@@ -22576,14 +22576,14 @@
     },
     {
         "CITY": "Sines",
-        "STATE": "Set\u00fabal",
+        "STATE": "Setúbal",
         "COUNTRY": "Portugal",
         "LATITUDE": 37.94,
         "LONGITUDE": -8.88
     },
     {
         "CITY": "Sines",
-        "STATE": "Set\u00fabal",
+        "STATE": "Setúbal",
         "COUNTRY": "Portugal",
         "LATITUDE": 37.94,
         "LONGITUDE": -8.86
@@ -22702,7 +22702,7 @@
     },
     {
         "CITY": "Skelleftehamn",
-        "STATE": "V\u00e4sterbotten County",
+        "STATE": "Västerbotten County",
         "COUNTRY": "Sweden",
         "LATITUDE": 64.69,
         "LONGITUDE": 21.22
@@ -22723,14 +22723,14 @@
     },
     {
         "CITY": "Skoghall",
-        "STATE": "V\u00e4rmland County",
+        "STATE": "Värmland County",
         "COUNTRY": "Sweden",
         "LATITUDE": 59.32,
         "LONGITUDE": 13.47
     },
     {
         "CITY": "Skredsvik",
-        "STATE": "V\u00e4stra G\u00f6taland.",
+        "STATE": "Västra Götaland.",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.38,
         "LONGITUDE": 11.65
@@ -22841,7 +22841,7 @@
         "LONGITUDE": 56.63
     },
     {
-        "CITY": "S\u00f6lvesborg",
+        "CITY": "Sölvesborg",
         "STATE": "Blekinge",
         "COUNTRY": "Sweden",
         "LATITUDE": 56.05,
@@ -22876,7 +22876,7 @@
         "LONGITUDE": 130.43
     },
     {
-        "CITY": "S\u00f8nderborg",
+        "CITY": "Sønderborg",
         "STATE": "South Denmark",
         "COUNTRY": "Denmark",
         "LATITUDE": 54.9,
@@ -22925,8 +22925,8 @@
         "LONGITUDE": 119.63
     },
     {
-        "CITY": "S\u00f6r\u00e5ker",
-        "STATE": "V\u00e4sternorrland",
+        "CITY": "Söråker",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.39,
         "LONGITUDE": 17.35
@@ -23142,7 +23142,7 @@
         "LONGITUDE": 16.43
     },
     {
-        "CITY": "Santa Perp\u00e8tua de Mogoda",
+        "CITY": "Santa Perpètua de Mogoda",
         "STATE": "Barcelona",
         "COUNTRY": "Spain",
         "LATITUDE": 37.57,
@@ -23163,7 +23163,7 @@
         "LONGITUDE": 103.71
     },
     {
-        "CITY": "Sre\u0107ica",
+        "CITY": "Srećica",
         "STATE": "Croatia",
         "COUNTRY": "Croatia",
         "LATITUDE": 45.33,
@@ -23310,8 +23310,8 @@
         "LONGITUDE": -52.69
     },
     {
-        "CITY": "Saint-Louis-du-Rh\u00f4ne",
-        "STATE": "Provence-Alpes-C\u00f4te d'Azur",
+        "CITY": "Saint-Louis-du-Rhône",
+        "STATE": "Provence-Alpes-Côte d'Azur",
         "COUNTRY": "France",
         "LATITUDE": 43.39,
         "LONGITUDE": 4.84
@@ -23366,7 +23366,7 @@
         "LONGITUDE": -90.32
     },
     {
-        "CITY": "S\u00e3o Vicente",
+        "CITY": "São Vicente",
         "STATE": "Cape Verde",
         "COUNTRY": "Cape Verde Is.",
         "LATITUDE": 16.88,
@@ -23472,7 +23472,7 @@
     },
     {
         "CITY": "Stenungsund",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.08,
         "LONGITUDE": 11.8
@@ -23485,7 +23485,7 @@
         "LONGITUDE": 14.58
     },
     {
-        "CITY": "Stign\u00e6s",
+        "CITY": "Stignæs",
         "STATE": "Zealand",
         "COUNTRY": "Denmark",
         "LATITUDE": 55.2,
@@ -23507,7 +23507,7 @@
     },
     {
         "CITY": "Sundsvall",
-        "STATE": "V\u00e4sternorrland",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.39,
         "LONGITUDE": 17.35
@@ -23520,7 +23520,7 @@
         "LONGITUDE": 114.17
     },
     {
-        "CITY": "Nyn\u00e4shamn",
+        "CITY": "Nynäshamn",
         "STATE": "Stockholm County",
         "COUNTRY": "Sweden",
         "LATITUDE": 63.7,
@@ -23535,7 +23535,7 @@
     },
     {
         "CITY": "Punta Arenas",
-        "STATE": "Magallanes y de la Ant\u00e1rtica Chilena",
+        "STATE": "Magallanes y de la Antártica Chilena",
         "COUNTRY": "Chile",
         "LATITUDE": -53.17,
         "LONGITUDE": -70.9
@@ -23556,7 +23556,7 @@
     },
     {
         "CITY": "Stugsund",
-        "STATE": "G\u00e4vleborg",
+        "STATE": "Gävleborg",
         "COUNTRY": "Sweden",
         "LATITUDE": 61.31,
         "LONGITUDE": 17.07
@@ -23583,8 +23583,8 @@
         "LONGITUDE": 22.62
     },
     {
-        "CITY": "V\u0169ng T\u00e0u",
-        "STATE": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+        "CITY": "Vũng Tàu",
+        "STATE": "Bà Rịa-Vũng Tàu",
         "COUNTRY": "Vietnam",
         "LATITUDE": 10.42,
         "LONGITUDE": 108.39
@@ -23751,8 +23751,8 @@
         "LONGITUDE": 102.12
     },
     {
-        "CITY": "Sunndals\u00f8ra",
-        "STATE": "M\u00f8re og Romsdal",
+        "CITY": "Sunndalsøra",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 62.68,
         "LONGITUDE": 8.55
@@ -23870,7 +23870,7 @@
         "LONGITUDE": -3.93
     },
     {
-        "CITY": "\u015awinouj\u015bcie",
+        "CITY": "Świnoujście",
         "STATE": "West Pomeranian Voivodeship",
         "COUNTRY": "Poland",
         "LATITUDE": 53.9,
@@ -23899,7 +23899,7 @@
     },
     {
         "CITY": "Sykkylven",
-        "STATE": "M\u00f8re og Romsdal",
+        "STATE": "Møre og Romsdal",
         "COUNTRY": "Norway",
         "LATITUDE": 62.39,
         "LONGITUDE": 6.56
@@ -23927,7 +23927,7 @@
     },
     {
         "CITY": "Taboguilla Island",
-        "STATE": "Panam\u00e1 Province",
+        "STATE": "Panamá Province",
         "COUNTRY": "Panama",
         "LATITUDE": 8.81,
         "LONGITUDE": -79.52
@@ -24094,8 +24094,8 @@
         "LONGITUDE": -92.08
     },
     {
-        "CITY": "M\u00e9rida",
-        "STATE": "Yucat\u00e1n",
+        "CITY": "Mérida",
+        "STATE": "Yucatán",
         "COUNTRY": "Mexico",
         "LATITUDE": 19.67,
         "LONGITUDE": -92.08
@@ -24109,7 +24109,7 @@
     },
     {
         "CITY": "Talcahuano",
-        "STATE": "Biob\u00edo",
+        "STATE": "Biobío",
         "COUNTRY": "Chile",
         "LATITUDE": -36.71,
         "LONGITUDE": -73.07
@@ -24438,7 +24438,7 @@
     },
     {
         "CITY": "Tarafa",
-        "STATE": "Sancti Sp\u00edritus",
+        "STATE": "Sancti Spíritus",
         "COUNTRY": "Cuba",
         "LATITUDE": 21.57,
         "LONGITUDE": -77.24
@@ -24542,8 +24542,8 @@
         "LONGITUDE": 107.97
     },
     {
-        "CITY": "Teju\u00e7uoca",
-        "STATE": "Cear\u00e1",
+        "CITY": "Tejuçuoca",
+        "STATE": "Ceará",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.06,
         "LONGITUDE": -44.23
@@ -24578,7 +24578,7 @@
     },
     {
         "CITY": "Tela",
-        "STATE": "Atl\u00e1ntida",
+        "STATE": "Atlántida",
         "COUNTRY": "Honduras",
         "LATITUDE": 15.81,
         "LONGITUDE": -87.47
@@ -24619,7 +24619,7 @@
         "LONGITUDE": -89.97
     },
     {
-        "CITY": "Angra do Hero\u00edsmo",
+        "CITY": "Angra do Heroísmo",
         "STATE": "Azores",
         "COUNTRY": "Portugal",
         "LATITUDE": 38.73,
@@ -24724,14 +24724,14 @@
         "LONGITUDE": 4.26
     },
     {
-        "CITY": "Helsing\u00f8r",
+        "CITY": "Helsingør",
         "STATE": "Zealand",
         "COUNTRY": "Denmark",
         "LATITUDE": 56.06,
         "LONGITUDE": 12.65
     },
     {
-        "CITY": "Helsing\u00f8r",
+        "CITY": "Helsingør",
         "STATE": "Denmark",
         "COUNTRY": "Denmark",
         "LATITUDE": 56.05,
@@ -24773,14 +24773,14 @@
         "LONGITUDE": 22.95
     },
     {
-        "CITY": "T\u00f3rshavn",
+        "CITY": "Tórshavn",
         "STATE": "Faroe Islands",
         "COUNTRY": "Faroe Is.",
         "LATITUDE": 62.0,
         "LONGITUDE": -6.76
     },
     {
-        "CITY": "Trois-Rivi\u00e8res",
+        "CITY": "Trois-Rivières",
         "STATE": "Quebec",
         "COUNTRY": "Canada",
         "LATITUDE": 46.34,
@@ -24921,7 +24921,7 @@
     },
     {
         "CITY": "Serra",
-        "STATE": "Esp\u00edrito Santo",
+        "STATE": "Espírito Santo",
         "COUNTRY": "Brazil",
         "LATITUDE": -18.98,
         "LONGITUDE": -39.71
@@ -25137,7 +25137,7 @@
         "LONGITUDE": 39.74
     },
     {
-        "CITY": "Tramanda\u00ed",
+        "CITY": "Tramandaí",
         "STATE": "Rio Grande do Sul",
         "COUNTRY": "Brazil",
         "LATITUDE": -30.02,
@@ -25165,7 +25165,7 @@
         "LONGITUDE": 12.51
     },
     {
-        "CITY": "L\u00fcbeck",
+        "CITY": "Lübeck",
         "STATE": "Schleswig-Holstein",
         "COUNTRY": "Germany",
         "LATITUDE": 53.95,
@@ -25180,7 +25180,7 @@
     },
     {
         "CITY": "Trelleborg",
-        "STATE": "Sk\u00e5ne",
+        "STATE": "Skåne",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.37,
         "LONGITUDE": 13.15
@@ -25263,7 +25263,7 @@
         "LONGITUDE": 18.97
     },
     {
-        "CITY": "Troms\u00f8",
+        "CITY": "Tromsø",
         "STATE": "Troms og Finnmark",
         "COUNTRY": "Norway",
         "LATITUDE": 69.85,
@@ -25271,7 +25271,7 @@
     },
     {
         "CITY": "Trondheim",
-        "STATE": "Tr\u00f8ndelag",
+        "STATE": "Trøndelag",
         "COUNTRY": "Norway",
         "LATITUDE": 63.44,
         "LONGITUDE": 10.41
@@ -25361,7 +25361,7 @@
         "LONGITUDE": 111.96
     },
     {
-        "CITY": "Tubar\u00e3o",
+        "CITY": "Tubarão",
         "STATE": "Santa Catarina",
         "COUNTRY": "Brazil",
         "LATITUDE": -20.29,
@@ -25397,7 +25397,7 @@
     },
     {
         "CITY": "Tumaco",
-        "STATE": "Nari\u00f1o",
+        "STATE": "Nariño",
         "COUNTRY": "Colombia",
         "LATITUDE": 1.88,
         "LONGITUDE": -78.81
@@ -25417,8 +25417,8 @@
         "LONGITUDE": 10.3
     },
     {
-        "CITY": "S\u00e3o Sebasti\u00e3o",
-        "STATE": "S\u00e3o Paulo",
+        "CITY": "São Sebastião",
+        "STATE": "São Paulo",
         "COUNTRY": "Brazil",
         "LATITUDE": -25.58,
         "LONGITUDE": -42.79
@@ -25452,8 +25452,8 @@
         "LONGITUDE": 78.22
     },
     {
-        "CITY": "T\u00fct\u00fcnc\u00fcl\u00fck",
-        "STATE": "\u0130zmir",
+        "CITY": "Tütüncülük",
+        "STATE": "İzmir",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.74,
         "LONGITUDE": 29.75
@@ -25516,14 +25516,14 @@
     },
     {
         "CITY": "Uddebo",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 65.57,
         "LONGITUDE": 22.17
     },
     {
         "CITY": "Uddevalla",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.34,
         "LONGITUDE": 11.9
@@ -25543,15 +25543,15 @@
         "LONGITUDE": 129.4
     },
     {
-        "CITY": "Arauc\u00e1ria",
-        "STATE": "Paran\u00e1",
+        "CITY": "Araucária",
+        "STATE": "Paraná",
         "COUNTRY": "Brazil",
         "LATITUDE": -23.97,
         "LONGITUDE": -46.3
     },
     {
         "CITY": "Umea",
-        "STATE": "V\u00e4sterbotten County",
+        "STATE": "Västerbotten County",
         "COUNTRY": "Sweden",
         "LATITUDE": 63.7,
         "LONGITUDE": 20.34
@@ -25627,7 +25627,7 @@
         "LONGITUDE": -38.5
     },
     {
-        "CITY": "\u00dcsk\u00fcdar",
+        "CITY": "Üsküdar",
         "STATE": "Istanbul",
         "COUNTRY": "Turkey",
         "LATITUDE": 41.02,
@@ -25641,8 +25641,8 @@
         "LONGITUDE": 28.42
     },
     {
-        "CITY": "Utansj\u00f6",
-        "STATE": "V\u00e4sternorrland",
+        "CITY": "Utansjö",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.64,
         "LONGITUDE": 17.94
@@ -25683,8 +25683,8 @@
         "LONGITUDE": 8.45
     },
     {
-        "CITY": "V\u00e4ja",
-        "STATE": "V\u00e4sternorrland",
+        "CITY": "Väja",
+        "STATE": "Västernorrland",
         "COUNTRY": "Sweden",
         "LATITUDE": 62.64,
         "LONGITUDE": 17.94
@@ -25704,15 +25704,15 @@
         "LONGITUDE": -0.31
     },
     {
-        "CITY": "Vall\u00f8y",
+        "CITY": "Valløy",
         "STATE": "Vestfold og Telemark",
         "COUNTRY": "Norway",
         "LATITUDE": 59.26,
         "LONGITUDE": 10.49
     },
     {
-        "CITY": "Valpara\u00edso",
-        "STATE": "Valpara\u00edso",
+        "CITY": "Valparaíso",
+        "STATE": "Valparaíso",
         "COUNTRY": "Chile",
         "LATITUDE": -33.03,
         "LONGITUDE": -71.63
@@ -25809,14 +25809,14 @@
         "LONGITUDE": 33.3
     },
     {
-        "CITY": "V\u00e4ster\u00e5s",
-        "STATE": "V\u00e4stmanland",
+        "CITY": "Västerås",
+        "STATE": "Västmanland",
         "COUNTRY": "Sweden",
         "LATITUDE": 59.59,
         "LONGITUDE": 16.52
     },
     {
-        "CITY": "V\u00e4stervik",
+        "CITY": "Västervik",
         "STATE": "Kalmar County",
         "COUNTRY": "Sweden",
         "LATITUDE": 57.76,
@@ -25873,7 +25873,7 @@
     },
     {
         "CITY": "Ciudad Guayana",
-        "STATE": "Bol\u00edvar",
+        "STATE": "Bolívar",
         "COUNTRY": "Venezuela",
         "LATITUDE": 8.29,
         "LONGITUDE": -62.85
@@ -25957,7 +25957,7 @@
     },
     {
         "CITY": "Vila do Conde",
-        "STATE": "Par\u00e1",
+        "STATE": "Pará",
         "COUNTRY": "Brazil",
         "LATITUDE": -1.54,
         "LONGITUDE": -48.77
@@ -25970,14 +25970,14 @@
         "LONGITUDE": -25.15
     },
     {
-        "CITY": "Villa Constituci\u00f3n",
+        "CITY": "Villa Constitución",
         "STATE": "Santa Fe",
         "COUNTRY": "Argentina",
         "LATITUDE": -33.22,
         "LONGITUDE": -60.33
     },
     {
-        "CITY": "Vilagarc\u00eda de Arousa",
+        "CITY": "Vilagarcía de Arousa",
         "STATE": "Galicia",
         "COUNTRY": "Spain",
         "LATITUDE": 42.6,
@@ -26061,8 +26061,8 @@
         "LONGITUDE": 32.33
     },
     {
-        "CITY": "Vit\u00f3ria",
-        "STATE": "Esp\u00edrito Santo",
+        "CITY": "Vitória",
+        "STATE": "Espírito Santo",
         "COUNTRY": "Brazil",
         "LATITUDE": -20.32,
         "LONGITUDE": -40.34
@@ -26097,7 +26097,7 @@
     },
     {
         "CITY": "Vlore",
-        "STATE": "Vlor\u00eb County",
+        "STATE": "Vlorë County",
         "COUNTRY": "Albania",
         "LATITUDE": 40.45,
         "LONGITUDE": 19.48
@@ -26264,8 +26264,8 @@
         "LONGITUDE": -3.02
     },
     {
-        "CITY": "Tj\u00f6rn",
-        "STATE": "V\u00e4stra G\u00f6taland",
+        "CITY": "Tjörn",
+        "STATE": "Västra Götaland",
         "COUNTRY": "Sweden",
         "LATITUDE": 58.01,
         "LONGITUDE": 11.7
@@ -26481,7 +26481,7 @@
         "LONGITUDE": 145.23
     },
     {
-        "CITY": "V\u00e4stervik",
+        "CITY": "Västervik",
         "STATE": "Sweden",
         "COUNTRY": "Sweden",
         "LATITUDE": 57.76,
@@ -26880,7 +26880,7 @@
         "LONGITUDE": 114.26
     },
     {
-        "CITY": "Yar\u0131mca",
+        "CITY": "Yarımca",
         "STATE": "Kocaeli",
         "COUNTRY": "Turkey",
         "LATITUDE": 40.74,
@@ -26908,7 +26908,7 @@
         "LONGITUDE": 130.8
     },
     {
-        "CITY": "Ye\u015filk\u00f6y",
+        "CITY": "Yeşilköy",
         "STATE": "Istanbul",
         "COUNTRY": "Turkey",
         "LATITUDE": 36.85,
@@ -27035,7 +27035,7 @@
     },
     {
         "CITY": "Ystad",
-        "STATE": "Sk\u00e5ne",
+        "STATE": "Skåne",
         "COUNTRY": "Sweden",
         "LATITUDE": 55.42,
         "LONGITUDE": 13.82
@@ -27105,7 +27105,7 @@
     },
     {
         "CITY": "Zadar",
-        "STATE": "Zadarska \u017eupanija",
+        "STATE": "Zadarska županija",
         "COUNTRY": "Croatia",
         "LATITUDE": 44.12,
         "LONGITUDE": 15.22
