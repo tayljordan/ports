@@ -1,8 +1,14 @@
 # Worldwide Maritime Ports Dataset
 
-This repository contains a JSON dataset of **5,410 worldwide maritime ports and points of interest (POIs)** sourced in part from **National Geospatial-Intelligence Agency Publication 150 (World Port Index, 2019 edition)**. Fields include location, depth soundings, tidal range, entrance restrictions, vessel size, and more.
+![GitHub stars](https://img.shields.io/github/stars/tayljordan/ports?style=flat-square&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/tayljordan/ports?style=flat-square&color=blue)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Records](https://img.shields.io/badge/records-5%2C410-blue?style=flat-square)
+![Data Source](https://img.shields.io/badge/source-NGA%20Pub.%20150-orange?style=flat-square)
+![Last Updated](https://img.shields.io/badge/updated-2026-lightgrey?style=flat-square)
+![Format](https://img.shields.io/badge/format-JSON-informational?style=flat-square)
 
-> **Disclaimer:** Port particulars are not comprehensive and may change without notice. Depth values represent a single recorded sounding and do not account for multiple berths, shifting bottom conditions, silting, dredging, seasonal variation, or other factors that may alter actual depths. Tidal range, vessel size limits, and entrance restrictions reflect conditions at time of publication and may no longer be accurate. This dataset does not substitute for current nautical charts, Notices to Mariners, or official port authority guidance. Data may be in error. Use at your own risk.
+This repository contains a JSON dataset of **5,410 worldwide maritime ports and points of interest (POIs)** sourced in part from **National Geospatial-Intelligence Agency Publication 150 (World Port Index, 2019 edition)**. Fields include location, depth soundings, tidal range, entrance restrictions, vessel size, and more.
 
 ![World Map of Maritime Ports](static/map.png)
 
@@ -140,3 +146,7 @@ MIT License — Copyright (c) 2026 Jordan Taylor. See [LICENSE](LICENSE) for ful
 ## Contact
 
 Questions or contributions — reach out via [LinkedIn](https://www.linkedin.com/in/tayljordan/).
+
+---
+
+> **Disclaimer:** Port particulars are not comprehensive and may change without notice. Depth values represent a single recorded sounding and do not account for multiple berths, shifting bottom conditions, silting, dredging, seasonal variation, or other factors that may alter actual depths. Tidal range, vessel size limits, and entrance restrictions reflect conditions at time of publication and may no longer be accurate. This dataset does not substitute for current nautical charts, Notices to Mariners, or official port authority guidance. Data may be in error. Use at your own risk.
